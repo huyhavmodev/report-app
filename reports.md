@@ -21,3 +21,21 @@
 - HTML DOM
 - HTML BOM
 - JS callback
+
+## Nguyen Minh Hieu - 03/30
+
+**Yesterday**
+- AJAX and JSON 
+- promise, async await
+- ajax request (Fetch API, Axios)
+- basic-data-structures
+- Bubbling and capturing (100%)
+
+**Today** 
+- AJAX and JSON
+- promise, async await
+- ajax request (Fetch API, Axios)
+- basic-algorithm-scripting
+
+Are there any impediments in your way?
+ - No
