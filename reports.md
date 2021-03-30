@@ -108,3 +108,16 @@
 
 - No
 
+## Nguyen Tien Manh - 03/30
+
+**Yesterday**
+- basic-data-structures (freecodecamp) (100%)
+- basic-algorithm-scripting (freecodecamp) (50%)
+
+**Today**
+- basic-algorithm-scripting (freecodecamp) (100%)
+- AJAX and JSON
+- promise, async await
+
+**Are there any impediments in your way?**
+- No
