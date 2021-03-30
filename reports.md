@@ -24,6 +24,28 @@
 - HTML BOM
 - JS callback
 
+
+## To Khuong Loc - 03/30
+
+**Yesterday (29.03.2021):**
+
+- AJAX and JSON (100%)
+- promise, async await (100%)
+- ajax request (Fetch API, Axios) (100%)
+- ES6: scope, arrow function, template string, destructuring, default parameter, rest, spread,... (100%)
+
+**Today (30.03.2021):**
+
+- Tìm hiểu git căn bản => tham khảo: https://backlog.com/git-tutorial/vn/
+- Hiểu về các server sử dụng git: Bitbucket, Github, Gitlab ...
+- Tìm hiểu vắn tắt nội dung về git thông qua file đính kèm git.txt ở dưới
+- Làm bài tập về git thông qua file git.practice
+- C11 GIT POLICY: https://github.com/vmodev11/vmo11/blob/master/GIT_POLICY.md
+
+**Problems:**
+
+- Không có
+=======
 ## Le Duy Khanh - 03/29
 
 **Yesterday**
@@ -85,3 +107,4 @@
 **Are there any impediments in your way?**
 
 - No
+
