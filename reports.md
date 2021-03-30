@@ -83,3 +83,19 @@
 
 **Are there any impediments in your way?**
 - No
+
+
+## Vuong Tuan Anh - 03/30
+
+**Yesterday**
+- Data structures & algorithms
+- Leetcode training
+- Finishing react app
+
+**Today**
+- Data structures & algorithms
+- Leetcode training
+- Finishing react app
+
+**Are there any impediments in your way?**
+- No
