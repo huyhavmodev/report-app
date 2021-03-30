@@ -55,3 +55,33 @@
 **Are there any impediments in your way?**
 
 - No
+
+## Le Duy Khanh - 03/28
+
+**Yesterday**
+
+- this, apply, call, bind (100%)
+- Immutable/Mutable, Pass by Value/Reference (100%)
+- setTimeout/clearTimeout (100%)
+- setInterval/clearInterval (100%)
+- cookie/localStorage/sessionStorage (100%)
+- DOM (90%)
+- BOM (70%)
+- Callback (80%)
+
+**Today**
+
+- DOM
+- BOM
+- Callback
+- Array
+- MultiDimensional Arrays
+- Access and Iterate through an Array
+- Bubbling and capturing
+- git
+- AJAX, Json
+- promise, async await.
+
+**Are there any impediments in your way?**
+
+- No
