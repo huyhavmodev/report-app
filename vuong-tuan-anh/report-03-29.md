@@ -1,4 +1,3 @@
-<!-- ------------------------------------------ -->
 **Day End Report**
 Destructuring assignment:
 -Cú pháp assignment kiểu mới của ES6, giúp chúng ta gán biến nhanh và gọn hơn
