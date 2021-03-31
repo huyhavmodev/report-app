@@ -217,3 +217,22 @@
 **Are there any impediments in your way?**
 
 - No
+
+## Vuong Tuan Anh - 03/31
+
+**Yesterday**
+
+- Data structures & algorithms
+- Leetcode training
+- Finishing react app
+
+**Today**
+
+- Data structures & algorithms
+- Leetcode training
+- Finishing react app
+- ES6: scope, arrow function, template string, destructuring, default parameter, rest, spread...
+
+**Are there any impediments in your way?**
+
+- No
