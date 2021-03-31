@@ -135,6 +135,29 @@
 
 - No
 
+# === DAILY REPORT 03/31 ===
+
+## Nguyen Minh Hieu - 03/31
+
+**Yesterday**
+
+- basic-data-structures(40%)
+- AJAX and JSON (50%)
+- promise, async await
+- ajax request (Fetch API, Axios)
+
+**Today**
+
+- AJAX and JSON
+- promise, async await
+- ajax request (Fetch API, Axios)
+- basic-algorithm-scripting
+
+**Are there any impediments in your way?**
+
+- No
+
+
 ## To Khuong Loc - 03/30
 
 **Yesterday**
@@ -148,6 +171,48 @@
 - Tìm hiểu vắn tắt nội dung về git thông qua file đính kèm git.txt ở dưới
 - Làm bài tập về git thông qua file git.practice
 - C11 GIT POLICY: https://github.com/vmodev11/vmo11/blob/master/GIT_POLICY.md
+
+## Le Duy Khanh - 03/31
+
+**Yesterday**
+
+- DOM (100%)
+- BOM (90%)
+- Callback (100%)
+- Array (80%)
+- MultiDimensional Arrays(80%)
+- Access and Iterate through an Array(80%)
+- git(60%)
+
+**Today**
+
+- BOM.
+- Callback.
+- Array.
+- MultiDimensional Arrays.
+- Access and Iterate through an Array.
+- Bubbling and capturing.
+- AJAX, Json.
+- promise, async await.
+- Data Structures.
+- Algorithm-scripting.
+
+**Are there any impediments in your way?**
+
+- No
+
+## Nguyen Tien Manh - 03/31
+
+**Yesterday**
+
+- basic-algorithm-scripting (freecodecamp) (100%)
+- AJAX and JSON (100%)
+- promise, async await (100%)
+
+**Today**
+
+- ajax request (Fetch API, Axios)
+- ES6: scope, arrow function, template string, destructuring, default parameter, rest, spread...
 
 **Are there any impediments in your way?**
 
