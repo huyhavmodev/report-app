@@ -116,3 +116,22 @@
 
 **Are there any impediments in your way?**
  - No
+
+# === DAILY REPORT 03/31 ===
+
+## Nguyen Minh Hieu - 03/30
+
+**Yesterday**
+- basic-data-structures(40%)
+- AJAX and JSON (50%)
+- promise, async await
+- ajax request (Fetch API, Axios)
+
+**Today** 
+- AJAX and JSON
+- promise, async await
+- ajax request (Fetch API, Axios)
+- basic-algorithm-scripting
+
+**Are there any impediments in your way?**
+ - No
