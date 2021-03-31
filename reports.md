@@ -99,7 +99,7 @@
 **Are there any impediments in your way?**
 - No
 
-## Nguyen Minh Hieu - 03/30
+## Nguyen Minh Hieu - 03/31
 
 **Yesterday**
 - AJAX and JSON 
