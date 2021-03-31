@@ -22,6 +22,7 @@
 - HTML DOM
 - HTML BOM
 - JS callback
+
 # === DAILY REPORT 03/30 ===
 
 ## To Khuong Loc - 03/30
@@ -83,7 +84,6 @@
 **Are there any impediments in your way?**
 - No
 
-
 ## Vuong Tuan Anh - 03/30
 
 **Yesterday**
@@ -119,7 +119,7 @@
 
 # === DAILY REPORT 03/31 ===
 
-## Nguyen Minh Hieu - 03/30
+## Nguyen Minh Hieu - 03/31
 
 **Yesterday**
 - basic-data-structures(40%)
@@ -135,3 +135,18 @@
 
 **Are there any impediments in your way?**
  - No
+
+## Nguyen Tien Manh - 03/31
+
+**Yesterday**
+- basic-algorithm-scripting (freecodecamp) (100%)
+- AJAX and JSON (100%)
+- promise, async await (100%)
+
+**Today**
+- ajax request (Fetch API, Axios)
+- ES6: scope, arrow function, template string, destructuring, default parameter, rest, spread...
+
+**Are there any impediments in your way?**
+- No
+
