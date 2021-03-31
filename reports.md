@@ -185,3 +185,19 @@
 **Are there any impediments in your way?**
 
 - No
+=======
+ - No
+
+## Nguyen Tien Manh - 03/31
+
+**Yesterday**
+- basic-algorithm-scripting (freecodecamp) (100%)
+- AJAX and JSON (100%)
+- promise, async await (100%)
+
+**Today**
+- ajax request (Fetch API, Axios)
+- ES6: scope, arrow function, template string, destructuring, default parameter, rest, spread...
+
+**Are there any impediments in your way?**
+- No
