@@ -157,6 +157,21 @@
 
 - No
 
+
+## To Khuong Loc - 03/30
+
+**Yesterday**
+
+- Tìm hiểu git căn bản => tham khảo: https://backlog.com/git-tutorial/vn/ (70%)
+- Hiểu về các server sử dụng git: Bitbucket, Github, Gitlab ... => github (80%)
+- Tìm hiểu vắn tắt nội dung về git thông qua file đính kèm git.txt ở dưới (50%)
+
+**Today**
+
+- Tìm hiểu vắn tắt nội dung về git thông qua file đính kèm git.txt ở dưới
+- Làm bài tập về git thông qua file git.practice
+- C11 GIT POLICY: https://github.com/vmodev11/vmo11/blob/master/GIT_POLICY.md
+
 ## Le Duy Khanh - 03/31
 
 **Yesterday**
