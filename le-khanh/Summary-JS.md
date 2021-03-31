@@ -306,3 +306,179 @@ let x = “hello” + 16 + 4
 - Là một `function` được truyền vào một `function` khác như là một tham số, `function` đó có thể chạy `callback` trong một thời gian nhất định.
 - Nếu thực thi ngay lập tức thì được gọi là `synchronous callback`
 - Nếu thực thi một lúc nào đó trong tương lai thì được gọi là `asynchronous callback`
+
+## 12. `Array`, `Multidimensional Array`, `Access` and Iterate through an `array`
+
+### `Array`,
+
+- Là một cấu trúc dữ liệu cho phép ta lưu trữ dữ liệu theo một tập hợp có thứ tự.
+- Trong js array là một kiểu đặc biệt của object.
+- Tạo một mảng, ta có 2 cách để khởi tạo một mảng
+  - Tạo một mảng rỗng, có 2 cách:
+  ```javascript
+  let arr = new Array();
+  let arr = [];
+  ```
+  - Tạo một mảng với những dữ liệu ban đầu:
+  ```javascript
+  let person = ["khanh", "linh"];
+  ```
+
+### `Multidimensional Array`,
+
+- Vì trong array có thể lưu nhiều kiểu dữ liệu khác nhau nên trong array có thể lưu một array khác, đó gọi là mảng đa chiều (multidimenstional array).
+  ```javascript
+  let arr = [
+    [1, 2, 3],
+    [4, 5, 6],
+    [7, 8, 9],
+  ];
+  ```
+
+### `Access` and Iterate through an `array`,
+
+- Truy cập các thành phần của mảng:
+  - Ta có thể lấy dữ liệu của bất kỳ thành phần nào trong mảng bằng cách đặt số `index` (bắt đầu từ `0`) của dữ liệu trong dấu `[]`, `arr.[index]`
+    - Nếu `index` nhỏ hơn độ dài của mảng `arr.length` thì sẽ lấy dữ liệu tại vị trí `index`
+    - Nếu `index` lớn hơn độ dài của mảng thì sẽ trả về `undefined`
+  - Ngoài việc lấy dữ liệu, ta có thể thay thế hoặc thêm phần tử mới vào mảng bằng cách gán giá trị tại vị trí `index` của mảng, `arr[index] = value`
+    - Nếu `index` nhỏ hơn độ dài của mảng thì sẽ thay thế giá trị tại vị trí `index`
+    - Nếu `index` lớn hơn đội dài của mảng thì sẽ thêm giá trị mới với vị trí `index`.
+  - Vì `array` là một kiểu đặc biệt của object, cú pháp `arr.[index]` thực chất lấy từ `object['key']` và number được sử dụng là các key.
+  - Chính vì `array` thực chất là một object, ta hoàn toàn có thể làm như thế này
+    ```javascript
+    let arr = [];
+    arr.age = 24;
+    ```
+    - Nhưng nếu làm như vậy js engine sẽ coi `array` là một `object` cho nên những tối ưu cho `array` sẽ được tắt
+    - Do đó, những điều không nên làm trong array,
+      - Thêm thuộc tính không phải là số `arr.age=25;`
+      - Để trống một khoảng vị trí, ví `arr[1]` `arr[10]` và không có gì ở giữa chúng.
+      - Thêm các giá trị vào mảng theo tứ tự ngược `arr[10]`, `arr[9]`, ...
+  - Truy cập dữ liệu trong mảng đa chiều, cú pháp: `arr[index1][index2]...`
+    - với `arr[index1]` là phần tử mức đầu tại arr, vì phần tử này là một mảng cho nên `arr[index1]` là một mảng.
+    - Để truy cập phần tử trong `arr[index1]` ta tiếp sử dụng cú pháp truy cập `arr[index1][index2]` với `index2` là index của phần tử trong `arr[index1]` và tiếp tục nếu `arr[index1][index2]` là một mảng và ta muốn truy cập tới các phần tử trong nó.
+- Thao tác với mảng:
+  - Thêm và xóa các thành phần trong mảng:
+    - Mảng có thể hoạt trên nguyên tắc `queue`:
+      - `push()`: thêm phần tử vào cuối mảng
+      - `shift`: đẩy phần tử đầu ra, phần tử thứ 2 sẽ trở thành phần tử đầu và mảng dịch về bên trái.
+    - Và có thể hoạt động trên nguyên tắc `stack`:
+      - `push()`: thêm phần tử vào cuối mảng.
+      - `pop()` : đẩy phần tử cuối cùng ra.
+    - `unshift()` thêm phần tử vào đầu mảng, phần tử đầu sẽ trở thành phần tử thứ 2 và tiếp tục cho tới hết và mảng dịch về bên phải.
+    - `Shift` và `unshift` chậm hơn `pop` và `push` do mảng phải dịch tất cả các phần tử trong mảng về
+    - `splice()` là phương thức dùng để thêm, xóa và thay thế các thành phần trong mảng, syntax:
+      ```javascript
+      arr.splice(start, deleteCount, ele1, ..., eleN)
+      ```
+      - Với `start` là index bắt đầu,
+      - `deleteCount` là số phần tử sẽ được xóa
+      - `ele1`, ... `eleN` là những phần tử mới được thay thế vào chỗ của các phần tử cũ.
+    - `slice()` trả về một mảng mới, syntax:
+      ```javascript
+      arr.slice(start, end);
+      ```
+      - Với `start` là index bắt đầu(mặc định), trả về ele với index này
+      - `end` là index kết thúc, trả về ele trước index này
+      - `slice` sẽ trả về mảng mới chứa các giá trị của mảng cũ từ index start cho tới end
+      - Nếu slice không có tham số nào thì sẽ trả về 1 mảng copy từ mảng cũ, nếu có 1 arg thì mặc định đó là start
+      - Cả start và end đều có thể âm, ví dụ:
+        ```javascript
+        let arr = [1, 2, 3, 4];
+        arr.slice(-2); // 3,4
+        arr.slice(0, -1); // 1,2,3
+        arr.slice(-1, 4); // 4
+        arr.slice(-4, -2); // 1,2
+        ```
+    - `concat()` trả về mảng mới chứa các phần tử là gộp của các mảng và một vài thành phần thêm, syntax:
+      ```javascript
+      arr.concat(arg1,arg2,...)
+      ```
+      - Các arg này có thể là mảng, có thể là object, có thể là dạng mảng.
+      - Nếu là object thì nó sẽ gộp các property của object đó vào mảng mới, kể cả object có dạng mảng, mảng mới sẽ chứa các giá trị trong array và một object.
+      ```javascript
+      let arr = [1, 2];
+      let object = {
+        name: "object",
+        value: "20",
+      };
+      arr.concat(object); //[1,2,{name:'object', value:'20'}]
+      ```
+      - Nhưng nếu trong object đó có property `[Symbol.isConcatSpreadable]: true` thì những property kểu index sẽ được gộp
+  - Vòng lặp:
+    - `forEach()`, chạy callback nào đó với từng phần tử của arr, syntax:
+      ```javascript
+      arr.forEach(function (item, index, array) {
+        // ... do something with item
+      });
+      ```
+    - `for ... of`, lặp qua tất cả các giá trị của mảng, tuy không biết được index của giá trị hiện tại, nhưng với 1 số case chỉ cần data trong array là đủ, syntax:
+      ```javascript
+      let arr = ["khanh", "linh"];
+      for (let x of arr) {
+        console.log(x);
+      }
+      //log khanh
+      //log linh
+      ```
+    - `for ... in`, cũng giống như `for ... of` nhưng nó lặp qua cả những property không phải kiểu số của mảng.
+      - Điều này xảy ra với những object dạng array, ngoài những property index thì nó có những property không phải kiểu số mà đôi khi ta không cần, điều này tạo ra sự dư thừa, đôi khi cũng khiến ta gặp phải những kết quả không mong muốn
+      - `for ... in` tốt hơn hết chỉ nên sử dụng cho `object`nói chung, còn `for ... of` nên dùng cho array.
+    - `filter()`, trả về một mảng các phần tử trong mảng đúng với điều kiện. Syntax:
+      ```javascript
+      let results = arr.filter(function (item, index, array) {
+        // nếu đúng thì đẩy giá trị vào results
+        // nếu không có phần tử nào thì trả về mảng rỗng
+      });
+      ```
+    - `map()`, chạy function trên từng phần tử của mảng và trả về mảng kết quả, syntax:
+      ```javascript
+      let results = arr.map(function (item, index, array) {
+        // trả về giá trị kết quả.
+      });
+      ```
+    - `sort()`, sắp xếp lại các phần tử trong mảng, trả về mảng hiện tại, syntax:
+      ```javascript
+      arr.sort(fn);
+      ```
+      - Với `fn` là function hay quy tắc so sánh mà ta dùng để sắp xếp.
+      - Nếu không có `fn` thì sẽ so sánh với quy tắc so sánh string.
+    - `reverse`, đảo ngược arr, syntax:
+      ```javascript
+      arr.reverse();
+      ```
+    - `join()`, trả về chuỗi gồm các phần tử trong array, syntax:
+      ```javascript
+      arr.join(glue);
+      ```
+      - với glue là chuỗi trả về sẽ được thêm gì vào giữa các phần tử của mảng.
+    - `reduce`, `reduceRight`, trả về giá trị dựa vào các thành phần trong mảng, syntax:
+      ```javascript
+      let results = arr.reduce(
+        function (accumulator, item, index, array) {
+          // ...
+        },
+        [initial]
+      );
+      ```
+      - Với `accumulator` là kết quả của lần thực hiện hàm với phần tử trước, `accumulator = initial` trong lần chạy đầu (nếu có), nếu không thì `accumulator = arr[0]`.
+      - `item` là phần tử hiện tại của mảng.
+      - `index` là index của item
+      - `array` là mảng.
+      - `reduceRight` cũng như `reduce` chỉ khác là nó chạy từ phải qua trái.
+  - `length`
+    - Thuộc tính này sẽ tự động update khi array được chỉnh sửa, nói đúng hơn là nó thực sự không đếm số phần tử được lưu trữ trong array mà là index của phần tử cuối cùng + 1.
+    - `length` là writable, nếu modify length:
+      ```javascript
+      let arr = [1, 2, 3, 4];
+      arr.length = 2; // 3, 4 bị cắt khỏi arr
+      arr.length = 6; // vị trí index từ 2 cho tới 5 sẽ có giá trị undefined
+      ```
+  - `String(arr)` trả về một chuỗi các thành phần trong mảng cách nhau bởi dấu `,`
+  - `Array.isArray` vì `typeof` trả về như nhau vs object và array nên dùng `Array.isArray(arr)` để kiểm tra đây có phải array hay không.
+  - Không so sánh 2 `array` bằng toán tử `==` được mà phải so sánh từng item trong `array`.
+
+## 13.
+
+## 14.
