@@ -236,9 +236,9 @@
 
 - No
 
-# === DAILY REPORT 01/04 ===
+# === DAILY REPORT 04/01 ===
 
-## Nguyen Tien Manh - 01/04
+## Nguyen Tien Manh - 04/01
 
 **Yesterday**
 
@@ -248,6 +248,31 @@
 **Today**
 
 - Git and practice
+
+**Are there any impediments in your way?**
+
+- No
+
+## Le Duy Khanh - 04/01
+
+**Yesterday**
+
+- BOM (90%)
+- Array (100%)
+- MultiDimensional Arrays(100%)
+- Access and Iterate through an Array(100%)
+- git(60%)
+
+**Today**
+
+- BOM.
+- Bubbling and capturing.
+- AJAX, Json.
+- promise, async await.
+- Data Structures.
+- Algorithm-scripting.
+- AJAX request
+- ES6
 
 **Are there any impediments in your way?**
 
