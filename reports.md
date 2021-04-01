@@ -292,3 +292,21 @@ Environment: Nodejs and npm
 **Are there any impediments in your way?**
 
 - No
+
+## Vuong Tuan Anh - 04/01
+
+**Yesterday**
+
+- Data structures & algorithms
+- Leetcode training
+- Finishing react app
+- ES6: scope, arrow function, template string, destructuring, default parameter, rest, spread...
+
+
+**Today**
+
+- Làm bài tập về git thông qua file git.practice 
+- C11 GIT POLICY: https://github.com/vmodev11/vmo11/blob/master/GIT_POLICY.md 
+**Are there any impediments in your way?**
+
+- No
