@@ -277,3 +277,18 @@
 **Are there any impediments in your way?**
 
 - No
+
+## To Khuong Loc - 04/01
+
+**Yesterday**
+
+- Tìm hiểu vắn tắt nội dung về git thông qua file đính kèm git.txt ở dưới (50%)
+- Làm bài tập về git thông qua file git.practice (25%)
+- C11 GIT POLICY: https://github.com/vmodev11/vmo11/blob/master/GIT_POLICY.md (50%)
+
+**Today**
+Environment: Nodejs and npm
+
+**Are there any impediments in your way?**
+
+- No
