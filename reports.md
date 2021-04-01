@@ -157,8 +157,7 @@
 
 - No
 
-
-## To Khuong Loc - 03/30
+## To Khuong Loc - 03/31
 
 **Yesterday**
 
@@ -232,6 +231,23 @@
 - Leetcode training
 - Finishing react app
 - ES6: scope, arrow function, template string, destructuring, default parameter, rest, spread...
+
+**Are there any impediments in your way?**
+
+- No
+
+# === DAILY REPORT 01/04 ===
+
+## Nguyen Tien Manh - 01/04
+
+**Yesterday**
+
+- ajax request (Fetch API, Axios) (100%)
+- ES6: scope, arrow function, template string, destructuring, default parameter, rest, spread... (100%)
+
+**Today**
+
+- Git and practice
 
 **Are there any impediments in your way?**
 
