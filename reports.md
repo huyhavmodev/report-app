@@ -292,3 +292,23 @@ Environment: Nodejs and npm
 **Are there any impediments in your way?**
 
 - No
+
+## Nguyen Minh Hieu - 04/01
+
+**Yesterday**
+
+- AJAX and JSON (90%)
+- promise, async await
+- ajax request (Fetch API, Axios)
+- basic-data-structures
+- Bubbling and capturing (100%)
+
+**Today**
+
+- promise, async await
+- ajax request (Fetch API, Axios)
+- basic-algorithm-scripting
+
+**Are there any impediments in your way?**
+
+- No
