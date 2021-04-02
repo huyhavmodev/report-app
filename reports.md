@@ -346,6 +346,25 @@ Environment: Nodejs and npm
 
 - No
 
+## Vuong Tuan Anh - 04/02
+
+**Yesterday**
+
+- Làm bài tập về git thông qua file git.practice (50%)
+- C11 GIT POLICY: https://github.com/vmodev11/vmo11/blob/master/GIT_POLICY.md 
+
+
+**Today**
+
+- Làm bài tập về git thông qua file git.practice 
+- C11 GIT POLICY: https://github.com/vmodev11/vmo11/blob/master/GIT_POLICY.md 
+- Review JavaScript
+
+**Are there any impediments in your way?**
+
+- No
+
+=======
 ## To Khuong Loc - 04/01
 
 **Yesterday**
