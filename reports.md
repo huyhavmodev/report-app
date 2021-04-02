@@ -302,12 +302,11 @@ Environment: Nodejs and npm
 - Finishing react app
 - ES6: scope, arrow function, template string, destructuring, default parameter, rest, spread...
 
-
 **Today**
 
-- Làm bài tập về git thông qua file git.practice 
-- C11 GIT POLICY: https://github.com/vmodev11/vmo11/blob/master/GIT_POLICY.md 
-**Are there any impediments in your way?**
+- Làm bài tập về git thông qua file git.practice
+- C11 GIT POLICY: https://github.com/vmodev11/vmo11/blob/master/GIT_POLICY.md
+  **Are there any impediments in your way?**
 
 - No
 
@@ -326,6 +325,79 @@ Environment: Nodejs and npm
 - promise, async await
 - ajax request (Fetch API, Axios)
 - basic-algorithm-scripting
+
+**Are there any impediments in your way?**
+
+- No
+
+# === DAILY REPORT 04/02 ===
+
+## Nguyen Tien Manh - 04/02
+
+**Yesterday**
+
+- Git and practice (100%)
+
+**Today**
+
+- Coding counter app
+
+**Are there any impediments in your way?**
+
+- No
+
+## Vuong Tuan Anh - 04/02
+
+**Yesterday**
+
+- Làm bài tập về git thông qua file git.practice (50%)
+- C11 GIT POLICY: https://github.com/vmodev11/vmo11/blob/master/GIT_POLICY.md
+
+**Today**
+
+- Làm bài tập về git thông qua file git.practice
+- C11 GIT POLICY: https://github.com/vmodev11/vmo11/blob/master/GIT_POLICY.md
+- Review JavaScript
+
+**Are there any impediments in your way?**
+
+- No
+
+=======
+
+## To Khuong Loc - 04/01
+
+**Yesterday**
+
+- Environment: Nodejs and npm (80%)
+
+**Today**
+
+- Đọc tài liệu official của React
+
+**Are there any impediments in your way?**
+
+- No
+
+## Le Duy Khanh - 04/02
+
+**Yesterday**
+
+- BOM (100%)
+- Bubbling and capturing(100%)
+- AJAX, Json(90%)
+- Data Structures(70%)
+- Algorithm-scripting(70%)
+- git(60%)
+
+**Today**
+
+- AJAX, Json(90%)
+- Data Structures(70%)
+- Algorithm-scripting(70%)
+- promise, async await.
+- AJAX request
+- ES6
 
 **Are there any impediments in your way?**
 
