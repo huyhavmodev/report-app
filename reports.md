@@ -402,3 +402,22 @@ Environment: Nodejs and npm
 **Are there any impediments in your way?**
 
 - No
+
+## Nguyen Minh Hieu - 04/02
+
+**Yesterday**
+
+- promise, async await (70%)
+- ajax request (Fetch API, Axios)
+- basic-algorithm-scripting
+
+**Today**
+
+- promise, async await 
+- ajax request (Fetch API, Axios)
+- AJAX request
+- ES6
+
+**Are there any impediments in your way?**
+
+- No
