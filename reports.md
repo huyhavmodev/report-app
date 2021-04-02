@@ -351,13 +351,12 @@ Environment: Nodejs and npm
 **Yesterday**
 
 - Làm bài tập về git thông qua file git.practice (50%)
-- C11 GIT POLICY: https://github.com/vmodev11/vmo11/blob/master/GIT_POLICY.md 
-
+- C11 GIT POLICY: https://github.com/vmodev11/vmo11/blob/master/GIT_POLICY.md
 
 **Today**
 
-- Làm bài tập về git thông qua file git.practice 
-- C11 GIT POLICY: https://github.com/vmodev11/vmo11/blob/master/GIT_POLICY.md 
+- Làm bài tập về git thông qua file git.practice
+- C11 GIT POLICY: https://github.com/vmodev11/vmo11/blob/master/GIT_POLICY.md
 - Review JavaScript
 
 **Are there any impediments in your way?**
@@ -365,6 +364,7 @@ Environment: Nodejs and npm
 - No
 
 =======
+
 ## To Khuong Loc - 04/01
 
 **Yesterday**
@@ -374,6 +374,30 @@ Environment: Nodejs and npm
 **Today**
 
 - Đọc tài liệu official của React
+
+**Are there any impediments in your way?**
+
+- No
+
+## Le Duy Khanh - 04/02
+
+**Yesterday**
+
+- BOM (100%)
+- Bubbling and capturing(100%)
+- AJAX, Json(90%)
+- Data Structures(70%)
+- Algorithm-scripting(70%)
+- git(60%)
+
+**Today**
+
+- AJAX, Json(90%)
+- Data Structures(70%)
+- Algorithm-scripting(70%)
+- promise, async await.
+- AJAX request
+- ES6
 
 **Are there any impediments in your way?**
 
