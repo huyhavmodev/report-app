@@ -1,4 +1,4 @@
-# Nguyen Tien Manh - 03/29
+# Nguyen Tien Manh - 03/31
 
 ## TOPIC: Một số sự khác biệt giữa fetch và axios
 
