@@ -302,12 +302,11 @@ Environment: Nodejs and npm
 - Finishing react app
 - ES6: scope, arrow function, template string, destructuring, default parameter, rest, spread...
 
-
 **Today**
 
-- Làm bài tập về git thông qua file git.practice 
-- C11 GIT POLICY: https://github.com/vmodev11/vmo11/blob/master/GIT_POLICY.md 
-**Are there any impediments in your way?**
+- Làm bài tập về git thông qua file git.practice
+- C11 GIT POLICY: https://github.com/vmodev11/vmo11/blob/master/GIT_POLICY.md
+  **Are there any impediments in your way?**
 
 - No
 
@@ -360,6 +359,21 @@ Environment: Nodejs and npm
 - Làm bài tập về git thông qua file git.practice 
 - C11 GIT POLICY: https://github.com/vmodev11/vmo11/blob/master/GIT_POLICY.md 
 - Review JavaScript
+
+**Are there any impediments in your way?**
+
+- No
+
+=======
+## To Khuong Loc - 04/01
+
+**Yesterday**
+
+- Environment: Nodejs and npm (80%)
+
+**Today**
+
+- Đọc tài liệu official của React
 
 **Are there any impediments in your way?**
 
