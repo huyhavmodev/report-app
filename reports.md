@@ -330,3 +330,19 @@ Environment: Nodejs and npm
 **Are there any impediments in your way?**
 
 - No
+
+# === DAILY REPORT 04/02 ===
+
+## Nguyen Tien Manh - 04/02
+
+**Yesterday**
+
+- Git and practice (100%)
+
+**Today**
+
+- Coding counter app
+
+**Are there any impediments in your way?**
+
+- No
