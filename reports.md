@@ -496,3 +496,23 @@ Environment: Nodejs and npm
 **Are there any impediments in your way?**
 
 - No
+
+## Nguyen Minh Hieu - 04/05
+
+**Yesterday**
+
+- promise, async await (100%)
+- ajax request (Fetch API, Axios) (90%)
+- ES6 (100%)
+
+**Today**
+
+- Installation (100%)
+- Main concepts 
+- Advanced guides 
+- Hooks (40%)
+- FAQ 
+
+**Are there any impediments in your way?**
+
+- No
