@@ -411,7 +411,7 @@ Environment: Nodejs and npm
 
 **Today**
 
-- promise, async await 
+- promise, async await
 - ajax request (Fetch API, Axios)
 - AJAX request
 - ES6
@@ -431,6 +431,29 @@ Environment: Nodejs and npm
 **Today**
 
 - ReactJS main concept
+
+**Are there any impediments in your way?**
+
+- No
+
+## Le Duy Khanh - 04/02
+
+**Yesterday**
+
+- AJAX, Json(90%)
+- Data Structures(70%)
+- Algorithm-scripting(70%)
+- AJAX request (50%)
+- ES6 (50%)
+
+**Today**
+
+- AJAX, Json
+- Data Structures
+- Algorithm-scripting
+- promise, async await.
+- AJAX request
+- ES6
 
 **Are there any impediments in your way?**
 
