@@ -458,3 +458,19 @@ Environment: Nodejs and npm
 **Are there any impediments in your way?**
 
 - No
+
+## Vuong Tuan Anh - 04/05
+
+**Yesterday**
+
+- Finishing React apps
+
+**Today**
+
+- Finishing React apps
+- Learn about custom hooks
+- HOC
+
+**Are there any impediments in your way?**
+
+- No
