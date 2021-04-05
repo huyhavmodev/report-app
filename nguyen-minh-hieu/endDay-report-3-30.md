@@ -3,7 +3,7 @@
 ### Topic: AJAX Là gì?
 
 #### 1. AJAX là gì? 
-- AJAX là phương pháp trao đổi dữ liệu dữ với server và cập nhật 1 hay nhiều phần của trang web mà không phải reload lại toàn bộ trang.
+- AJAX là 1 phương pháp trao đổi dữ liệu dữ với server và cập nhật 1 hay nhiều phần của trang web mà không phải reload lại toàn bộ trang.
 - AJAX được viết bằng javascript và chạy trên client
 
 #### 2. Tại sao lại sử dụng AJAX?

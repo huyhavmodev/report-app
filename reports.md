@@ -458,3 +458,61 @@ Environment: Nodejs and npm
 **Are there any impediments in your way?**
 
 - No
+
+
+## To Khuong Loc - 04/05
+
+**Yesterday**
+
+- Đọc tài liệu official của React
+  - Installation (100%)
+  - Main concepts (100%)
+  - Advanced guides (70%)
+  - Hooks (70%)
+  - FAQ (50%)
+
+**Today**
+
+- What's API?
+- HTTP Request (OPTIONS, GET, POST, PUT, PATH, DELETE)
+- CORS issue
+- Postman
+- Tích hợp API bên trong 1 React component
+- Authentication/Authorization
+- JSON web token (JWT)
+
+## Vuong Tuan Anh - 04/05
+
+**Yesterday**
+
+- Finishing React apps
+
+**Today**
+
+- Finishing React apps
+- Learn about custom hooks
+- HOC
+
+**Are there any impediments in your way?**
+
+- No
+
+## Nguyen Minh Hieu - 04/05
+
+**Yesterday**
+
+- promise, async await (100%)
+- ajax request (Fetch API, Axios) (90%)
+- ES6 (100%)
+
+**Today**
+
+- Installation (100%)
+- Main concepts 
+- Advanced guides 
+- Hooks (40%)
+- FAQ 
+
+**Are there any impediments in your way?**
+
+- No
