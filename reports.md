@@ -363,9 +363,7 @@ Environment: Nodejs and npm
 
 - No
 
-=======
-
-## To Khuong Loc - 04/01
+## To Khuong Loc - 04/02
 
 **Yesterday**
 
@@ -417,6 +415,22 @@ Environment: Nodejs and npm
 - ajax request (Fetch API, Axios)
 - AJAX request
 - ES6
+
+**Are there any impediments in your way?**
+
+- No
+
+# === DAILY REPORT 04/05 ===
+
+## Nguyen Tien Manh - 04/05
+
+**Yesterday**
+
+- Coding counter app (100%)
+
+**Today**
+
+- ReactJS main concept
 
 **Are there any impediments in your way?**
 
