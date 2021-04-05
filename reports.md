@@ -459,6 +459,28 @@ Environment: Nodejs and npm
 
 - No
 
+
+## To Khuong Loc - 04/05
+
+**Yesterday**
+
+- Đọc tài liệu official của React
+  - Installation (100%)
+  - Main concepts (100%)
+  - Advanced guides (70%)
+  - Hooks (70%)
+  - FAQ (50%)
+
+**Today**
+
+- What's API?
+- HTTP Request (OPTIONS, GET, POST, PUT, PATH, DELETE)
+- CORS issue
+- Postman
+- Tích hợp API bên trong 1 React component
+- Authentication/Authorization
+- JSON web token (JWT)
+
 ## Vuong Tuan Anh - 04/05
 
 **Yesterday**
