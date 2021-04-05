@@ -459,6 +459,7 @@ Environment: Nodejs and npm
 
 - No
 
+
 ## To Khuong Loc - 04/05
 
 **Yesterday**
@@ -479,6 +480,18 @@ Environment: Nodejs and npm
 - Tích hợp API bên trong 1 React component
 - Authentication/Authorization
 - JSON web token (JWT)
+
+## Vuong Tuan Anh - 04/05
+
+**Yesterday**
+
+- Finishing React apps
+
+**Today**
+
+- Finishing React apps
+- Learn about custom hooks
+- HOC
 
 **Are there any impediments in your way?**
 
