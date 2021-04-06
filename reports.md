@@ -436,7 +436,7 @@ Environment: Nodejs and npm
 
 - No
 
-## Le Duy Khanh - 04/02
+## Le Duy Khanh - 04/05
 
 **Yesterday**
 
@@ -458,7 +458,6 @@ Environment: Nodejs and npm
 **Are there any impediments in your way?**
 
 - No
-
 
 ## To Khuong Loc - 04/05
 
@@ -508,10 +507,72 @@ Environment: Nodejs and npm
 **Today**
 
 - Installation (100%)
-- Main concepts 
-- Advanced guides 
+- Main concepts
+- Advanced guides
 - Hooks (40%)
-- FAQ 
+- FAQ
+
+**Are there any impediments in your way?**
+
+- No
+
+# === DAILY REPORT 04/06 ===
+
+## To Khuong Loc - 04/06
+
+**Yesterday**
+
+- What's API? (80%)
+- HTTP Request (OPTIONS, GET, POST, PUT, PATH, DELETE) (80%)
+- CORS issue (50%)
+- Postman (100%)
+- Tích hợp API bên trong 1 React component (100%)
+- Authentication/Authorization (50%)
+- JSON web token (JWT) (20%)
+
+**Today**
+
+- react test: https://codesandbox.io/s/react-js-test-p3xt8?file=/README.md
+
+**Are there any impediments in your way?**
+
+- No
+
+## Le Duy Khanh - 04/06
+
+**Yesterday**
+
+- AJAX, Json(100%)
+- AJAX request (90%)
+- promise, async await(100%)
+- Fetch API, Axios (50%)
+- ES6 (50%)
+- nodeJS, create-react-app installation.(100%)
+
+**Today**
+
+- React-counter-app
+- Fetch API, Axios
+- AJAX request
+- ES6
+
+**Are there any impediments in your way?**
+
+- No
+
+## Vuong Tuan Anh - 04/06
+
+**Yesterday**
+
+- Finishing React apps
+- Learn about custom hooks
+- HOC
+
+**Today**
+
+- Integrate APIs
+- Leetcode
+- Review code
 
 **Are there any impediments in your way?**
 
