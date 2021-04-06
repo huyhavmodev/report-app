@@ -559,3 +559,21 @@ Environment: Nodejs and npm
 **Are there any impediments in your way?**
 
 - No
+
+## Vuong Tuan Anh - 04/06
+
+**Yesterday**
+
+- Finishing React apps
+- Learn about custom hooks
+- HOC
+
+**Today**
+
+- Integrate APIs
+- Leetcode
+- Review code
+
+**Are there any impediments in your way?**
+
+- No
