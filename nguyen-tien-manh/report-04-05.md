@@ -1,4 +1,7 @@
-# 3. Context(***)
+# Nguyen Tien Manh - 04/05
+
+## TOPIC: Context
+
 - Context cung cấp phương pháp truyền data xuyên suốt component tree mà không cần phải truyền props một cách thủ công qua từng level.
 ## Khi nào nên dùng Context 
 - Context được thiết kế để chia sẽ data khi chúng được xem là “global data”
