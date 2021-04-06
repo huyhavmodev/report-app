@@ -459,7 +459,6 @@ Environment: Nodejs and npm
 
 - No
 
-
 ## To Khuong Loc - 04/05
 
 **Yesterday**
@@ -508,10 +507,32 @@ Environment: Nodejs and npm
 **Today**
 
 - Installation (100%)
-- Main concepts 
-- Advanced guides 
+- Main concepts
+- Advanced guides
 - Hooks (40%)
-- FAQ 
+- FAQ
+
+**Are there any impediments in your way?**
+
+- No
+
+# === DAILY REPORT 04/06 ===
+
+## To Khuong Loc - 04/06
+
+**Yesterday**
+
+- What's API? (80%)
+- HTTP Request (OPTIONS, GET, POST, PUT, PATH, DELETE) (80%)
+- CORS issue (50%)
+- Postman (100%)
+- Tích hợp API bên trong 1 React component (100%)
+- Authentication/Authorization (50%)
+- JSON web token (JWT) (20%)
+
+**Today**
+
+- react test: https://codesandbox.io/s/react-js-test-p3xt8?file=/README.md
 
 **Are there any impediments in your way?**
 
