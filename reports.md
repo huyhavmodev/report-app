@@ -601,3 +601,18 @@ Environment: Nodejs and npm
 **Are there any impediments in your way?**
 
 - No
+
+## Nguyen Tien Manh - 04/05
+
+**Yesterday**
+
+- ReactJS main concept (100%)
+- ReactJS advance guides (30%)
+
+**Today**
+
+- ReactJS advance guides
+
+**Are there any impediments in your way?**
+
+- No
