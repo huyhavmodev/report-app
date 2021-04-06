@@ -577,3 +577,27 @@ Environment: Nodejs and npm
 **Are there any impediments in your way?**
 
 - No
+
+## Nguyen Minh Hieu - 04/06
+
+**Yesterday**
+
+- Installation (100%)
+- Main concepts (80%)
+- Advanced guides (50%)
+- Hooks (40%)
+- FAQ
+
+**Today**
+
+- Main concepts (80%)
+- Advanced guides (50%)
+- Hooks (40%)
+- FAQ
+- HTTP Request (OPTIONS, GET, POST, PUT, PATH, DELETE)
+- Postman (80%)
+- What's API? (70%)
+
+**Are there any impediments in your way?**
+
+- No
