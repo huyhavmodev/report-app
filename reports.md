@@ -436,7 +436,7 @@ Environment: Nodejs and npm
 
 - No
 
-## Le Duy Khanh - 04/02
+## Le Duy Khanh - 04/05
 
 **Yesterday**
 
@@ -533,6 +533,28 @@ Environment: Nodejs and npm
 **Today**
 
 - react test: https://codesandbox.io/s/react-js-test-p3xt8?file=/README.md
+
+**Are there any impediments in your way?**
+
+- No
+
+## Le Duy Khanh - 04/06
+
+**Yesterday**
+
+- AJAX, Json(100%)
+- AJAX request (90%)
+- promise, async await(100%)
+- Fetch API, Axios (50%)
+- ES6 (50%)
+- nodeJS, create-react-app installation.(100%)
+
+**Today**
+
+- React-counter-app
+- Fetch API, Axios
+- AJAX request
+- ES6
 
 **Are there any impediments in your way?**
 
