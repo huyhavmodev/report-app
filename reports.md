@@ -633,3 +633,20 @@ Environment: Nodejs and npm
 **Are there any impediments in your way?**
 
 - No
+
+## To Khuong Loc - 04/07
+
+**Yesterday**
+
+- react test: https://codesandbox.io/s/react-js-test-p3xt8?file=/README.md
+
+**Today**
+
+- React context
+- Flux architecture
+- Redux - Mobx - Apollo client - Recoil (one of them): redux
+- Async: Redux-thunk or Redux-saga: redux thunk
+
+**Are there any impediments in your way?**
+
+- No
