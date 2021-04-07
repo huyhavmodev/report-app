@@ -650,3 +650,16 @@ Environment: Nodejs and npm
 **Are there any impediments in your way?**
 
 - No
+
+## Vuong Tuan Anh - 04/07
+
+**Yesterday**
+
+- Integrate APIs
+- Leetcode
+- Review code
+
+**Today**
+
+- More git learning
+- NodeJS 
