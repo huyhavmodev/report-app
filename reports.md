@@ -656,8 +656,8 @@ Environment: Nodejs and npm
 **Yesterday**
 
 - Main concepts (50%)
-- Advanced guides 
-- Hooks 
+- Advanced guides
+- Hooks
 - FAQ
 - Postman (80%)
 - What's API? (80%)
@@ -665,12 +665,13 @@ Environment: Nodejs and npm
 **Today**
 
 - Main concepts (50%)
-- Advanced guides 
-- Hooks 
+- Advanced guides
+- Hooks
 - FAQ
 - HTTP Request (OPTIONS, GET, POST, PUT, PATH, DELETE)
 - Postman (80%)
 - What's API? (80%)
+
 ## Vuong Tuan Anh - 04/07
 
 **Yesterday**
@@ -682,4 +683,24 @@ Environment: Nodejs and npm
 **Today**
 
 - More git learning
-- NodeJS 
+- NodeJS
+
+## Le Duy Khanh - 04/07
+
+**Yesterday**
+
+- AJAX request (100%)
+- promise, async await(100%)
+- Fetch API, Axios (100%)
+- ES6 (50%)
+- React-counter-app(80%)
+
+**Today**
+
+- React-counter-app
+- React document
+- ES6
+
+**Are there any impediments in your way?**
+
+- No
