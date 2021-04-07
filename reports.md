@@ -616,3 +616,20 @@ Environment: Nodejs and npm
 **Are there any impediments in your way?**
 
 - No
+
+# === DAILY REPORT 04/07 ===
+
+## Nguyen Tien Manh - 04/07
+
+**Yesterday**
+
+- ReactJS advance guides (100%)
+
+**Today**
+
+- ReactJS hooks
+- ReactJS FAQ
+
+**Are there any impediments in your way?**
+
+- No
