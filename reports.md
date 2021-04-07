@@ -651,6 +651,26 @@ Environment: Nodejs and npm
 
 - No
 
+## Nguyen Minh Hieu - 04/07
+
+**Yesterday**
+
+- Main concepts (50%)
+- Advanced guides 
+- Hooks 
+- FAQ
+- Postman (80%)
+- What's API? (80%)
+
+**Today**
+
+- Main concepts (50%)
+- Advanced guides 
+- Hooks 
+- FAQ
+- HTTP Request (OPTIONS, GET, POST, PUT, PATH, DELETE)
+- Postman (80%)
+- What's API? (80%)
 ## Vuong Tuan Anh - 04/07
 
 **Yesterday**
