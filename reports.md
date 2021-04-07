@@ -671,3 +671,15 @@ Environment: Nodejs and npm
 - HTTP Request (OPTIONS, GET, POST, PUT, PATH, DELETE)
 - Postman (80%)
 - What's API? (80%)
+## Vuong Tuan Anh - 04/07
+
+**Yesterday**
+
+- Integrate APIs
+- Leetcode
+- Review code
+
+**Today**
+
+- More git learning
+- NodeJS 
