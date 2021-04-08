@@ -704,3 +704,20 @@ Environment: Nodejs and npm
 **Are there any impediments in your way?**
 
 - No
+
+# === DAILY REPORT 04/08 ===
+
+## Nguyen Tien Manh - 04/08
+
+**Yesterday**
+
+- ReactJS hooks (100%)
+- ReactJS FAQ (100%)
+
+**Today**
+
+- Typescript
+
+**Are there any impediments in your way?**
+
+- No
