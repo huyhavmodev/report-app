@@ -799,3 +799,16 @@ Environment: Nodejs and npm
 - Hooks 
 - FAQ
 - HTTP Request (OPTIONS, GET, POST, PUT, PATH, DELETE)
+
+## Vuong Tuan Anh - 04/07
+
+**Yesterday**
+
+- More git learning
+- NodeJS
+
+**Today**
+
+- React drag and drop
+- React test
+- Leetcode training
