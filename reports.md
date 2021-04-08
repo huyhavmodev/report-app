@@ -739,27 +739,7 @@ Environment: Nodejs and npm
 
 - No
 
-## Le Duy Khanh - 04/07
-
-**Yesterday**
-
-- AJAX request (100%)
-- promise, async await(100%)
-- Fetch API, Axios (100%)
-- ES6 (50%)
-- React-counter-app(80%)
-
-**Today**
-
-- React-counter-app
-- React document
-- ES6
-
-**Are there any impediments in your way?**
-
-- No
-
-## Le Duy Khanh - 04/07
+## Le Duy Khanh - 04/08
 
 **Yesterday**
 
