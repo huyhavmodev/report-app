@@ -721,3 +721,20 @@ Environment: Nodejs and npm
 **Are there any impediments in your way?**
 
 - No
+
+## To Khuong Loc - 04/08
+
+**Yesterday**
+
+- React context (80%)
+- Flux architecture (80%)
+- Redux - Mobx - Apollo client - Recoil (one of them): -> redux(100%)
+- Async: Redux-thunk or Redux-saga: -> redux thunk - (100%)
+
+**Today**
+
+- Practice: build a simple caculator
+
+**Are there any impediments in your way?**
+
+- No
