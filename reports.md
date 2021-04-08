@@ -656,8 +656,8 @@ Environment: Nodejs and npm
 **Yesterday**
 
 - Main concepts (50%)
-- Advanced guides 
-- Hooks 
+- Advanced guides
+- Hooks
 - FAQ
 - Postman (80%)
 - What's API? (80%)
@@ -665,12 +665,13 @@ Environment: Nodejs and npm
 **Today**
 
 - Main concepts (50%)
-- Advanced guides 
-- Hooks 
+- Advanced guides
+- Hooks
 - FAQ
 - HTTP Request (OPTIONS, GET, POST, PUT, PATH, DELETE)
 - Postman (80%)
 - What's API? (80%)
+
 ## Vuong Tuan Anh - 04/07
 
 **Yesterday**
@@ -682,4 +683,99 @@ Environment: Nodejs and npm
 **Today**
 
 - More git learning
-- NodeJS 
+- NodeJS
+
+## Le Duy Khanh - 04/07
+
+**Yesterday**
+
+- AJAX request (100%)
+- promise, async await(100%)
+- Fetch API, Axios (100%)
+- ES6 (50%)
+- React-counter-app(80%)
+
+**Today**
+
+- React-counter-app
+- React document
+- ES6
+
+**Are there any impediments in your way?**
+
+- No
+
+# === DAILY REPORT 04/08 ===
+
+## Nguyen Tien Manh - 04/08
+
+**Yesterday**
+
+- ReactJS hooks (100%)
+- ReactJS FAQ (100%)
+
+**Today**
+
+- Typescript
+
+**Are there any impediments in your way?**
+
+- No
+
+## To Khuong Loc - 04/08
+
+**Yesterday**
+
+- React context (80%)
+- Flux architecture (80%)
+- Redux - Mobx - Apollo client - Recoil (one of them): -> redux(100%)
+- Async: Redux-thunk or Redux-saga: -> redux thunk - (100%)
+
+**Today**
+
+- Practice: build a simple caculator
+
+**Are there any impediments in your way?**
+
+- No
+
+## Le Duy Khanh - 04/08
+
+**Yesterday**
+
+- ES6 (100%)
+- React-counter-app(90%)
+- React document (15%)
+  - Installation(100%)
+  - Main concepts(50%)
+
+**Today**
+
+- React-counter-app
+- React document
+  - Main concepts
+  - Advaned guides
+  - API reference
+  - Hooks
+  - Testing
+  - FAQ
+- Intergrate APIs
+
+**Are there any impediments in your way?**
+
+- No
+
+## Hoang Nhat Tan -04/08
+
+**Yesterday**
+- Hoisting
+- Scope and Closure
+- Condition statement
+- Data type
+
+**Today**
+- Object, Prototype & Inheritance
+- Immutable/Mutable, Pass by Value/Reference
+
+**Are there any impediments in your way?**
+- No
