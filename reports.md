@@ -738,3 +738,49 @@ Environment: Nodejs and npm
 **Are there any impediments in your way?**
 
 - No
+
+## Le Duy Khanh - 04/07
+
+**Yesterday**
+
+- AJAX request (100%)
+- promise, async await(100%)
+- Fetch API, Axios (100%)
+- ES6 (50%)
+- React-counter-app(80%)
+
+**Today**
+
+- React-counter-app
+- React document
+- ES6
+
+**Are there any impediments in your way?**
+
+- No
+
+## Le Duy Khanh - 04/07
+
+**Yesterday**
+
+- ES6 (100%)
+- React-counter-app(90%)
+- React document (15%)
+  - Installation(100%)
+  - Main concepts(50%)
+
+**Today**
+
+- React-counter-app
+- React document
+  - Main concepts
+  - Advaned guides
+  - API reference
+  - Hooks
+  - Testing
+  - FAQ
+- Intergrate APIs
+
+**Are there any impediments in your way?**
+
+- No
