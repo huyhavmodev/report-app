@@ -764,3 +764,18 @@ Environment: Nodejs and npm
 **Are there any impediments in your way?**
 
 - No
+
+## Hoang Nhat Tan -04/08
+
+**Yesterday**
+- Hoisting
+- Scope and Closure
+- Condition statement
+- Data type
+
+**Today**
+- Object, Prototype & Inheritance
+- Immutable/Mutable, Pass by Value/Reference
+
+**Are there any impediments in your way?**
+- No
