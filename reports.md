@@ -704,3 +704,16 @@ Environment: Nodejs and npm
 **Are there any impediments in your way?**
 
 - No
+
+## Vuong Tuan Anh - 04/08
+
+**Yesterday**
+
+- Integrate APIs
+- Leetcode
+- Review code
+
+**Today**
+
+- React drag and drop
+- Small react test
