@@ -779,3 +779,15 @@ Environment: Nodejs and npm
 
 **Are there any impediments in your way?**
 - No
+
+## Vuong Tuan Anh - 04/08
+
+**Yesterday**
+
+- More git learning
+- NodeJS
+
+**Today**
+
+- React drag and drop
+- React test
