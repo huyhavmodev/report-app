@@ -768,16 +768,19 @@ Environment: Nodejs and npm
 ## Hoang Nhat Tan -04/08
 
 **Yesterday**
+
 - Hoisting
 - Scope and Closure
 - Condition statement
 - Data type
 
 **Today**
+
 - Object, Prototype & Inheritance
 - Immutable/Mutable, Pass by Value/Reference
 
 **Are there any impediments in your way?**
+
 - No
 
 ## Nguyen Minh Hieu - 04/08
@@ -785,8 +788,8 @@ Environment: Nodejs and npm
 **Yesterday**
 
 - Main concepts (50%)
-- Advanced guides 
-- Hooks 
+- Advanced guides
+- Hooks
 - FAQ
 - HTTP Request (OPTIONS, GET, POST, PUT, PATH, DELETE)
 - Postman (80%)
@@ -794,9 +797,9 @@ Environment: Nodejs and npm
 
 **Today**
 
-- Main concepts 
-- Advanced guides 
-- Hooks 
+- Main concepts
+- Advanced guides
+- Hooks
 - FAQ
 - HTTP Request (OPTIONS, GET, POST, PUT, PATH, DELETE)
 
@@ -812,3 +815,46 @@ Environment: Nodejs and npm
 - React drag and drop
 - React test
 - Leetcode training
+
+# === DAILY REPORT 04/09 ===
+
+## To Khuong Loc - 04/09
+
+**Yesterday**
+
+- Practice: build a simple caculator(80%)
+
+**Today**
+
+- Practice: build random quote, simple counter
+- fix bugs in caculator, random-users(test-trello)
+
+**Are there any impediments in your way?**
+
+- No
+
+## Le Duy Khanh - 04/09
+
+**Yesterday**
+
+- React-counter-app(90%)
+- React document (20%)
+  - Main concepts(100%)
+  - Advaned guides(30%)
+- Intergrate APIs(5%)
+  - What's API? (60%)
+
+**Today**
+
+- React-counter-app
+- React document
+  - Advaned guides
+  - API reference
+  - Hooks
+  - Testing
+  - FAQ
+- Intergrate APIs
+
+**Are there any impediments in your way?**
+
+- No
