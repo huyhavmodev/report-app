@@ -833,11 +833,8 @@ Environment: Nodejs and npm
 
 - No
 
-<<<<<<< HEAD
-=======
 ## Nguyen Tien Manh - 04/09
 
->>>>>>> b12db0c ([NTM] daily report 0409)
 **Yesterday**
 
 - Typescript (60%)
