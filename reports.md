@@ -832,3 +832,21 @@ Environment: Nodejs and npm
 **Are there any impediments in your way?**
 
 - No
+
+<<<<<<< HEAD
+=======
+## Nguyen Tien Manh - 04/09
+
+>>>>>>> b12db0c ([NTM] daily report 0409)
+**Yesterday**
+
+- Typescript (60%)
+
+**Today**
+
+- Typescript (100%)
+- React Test
+
+**Are there any impediments in your way?**
+
+- No
