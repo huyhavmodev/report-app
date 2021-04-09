@@ -832,3 +832,16 @@ Environment: Nodejs and npm
 **Are there any impediments in your way?**
 
 - No
+
+**Yesterday**
+
+- Typescript (60%)
+
+**Today**
+
+- Typescript (100%)
+- React Test
+
+**Are there any impediments in your way?**
+
+- No
