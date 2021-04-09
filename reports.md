@@ -873,3 +873,20 @@ Environment: Nodejs and npm
 **Are there any impediments in your way?**
 
 - No
+
+## Nguyen Minh Hieu - 04/09
+
+**Yesterday**
+
+- Main concepts (100%)
+- Advanced guides
+- Hooks
+- FAQ
+- HTTP Request (OPTIONS, GET, POST, PUT, PATH, DELETE)
+
+**Today**
+
+- Advanced guides
+- Hooks
+- FAQ
+- HTTP Request (OPTIONS, GET, POST, PUT, PATH, DELETE)
