@@ -833,11 +833,8 @@ Environment: Nodejs and npm
 
 - No
 
-<<<<<<< HEAD
-=======
 ## Nguyen Tien Manh - 04/09
 
->>>>>>> b12db0c ([NTM] daily report 0409)
 **Yesterday**
 
 - Typescript (60%)
@@ -846,6 +843,32 @@ Environment: Nodejs and npm
 
 - Typescript (100%)
 - React Test
+
+**Are there any impediments in your way?**
+
+- No
+
+## Le Duy Khanh - 04/09
+
+**Yesterday**
+
+- React-counter-app(90%)
+- React document (20%)
+  - Main concepts(100%)
+  - Advaned guides(30%)
+- Intergrate APIs(5%)
+  - What's API? (60%)
+
+**Today**
+
+- React-counter-app
+- React document
+  - Advaned guides
+  - API reference
+  - Hooks
+  - Testing
+  - FAQ
+- Intergrate APIs
 
 **Are there any impediments in your way?**
 
