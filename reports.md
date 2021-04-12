@@ -936,3 +936,19 @@ Environment: Nodejs and npm
 **Are there any impediments in your way?**
 
 - No
+
+## Nguyen Minh Hieu - 04/12
+
+**Yesterday**\
+
+- Advanced guides (50%)
+- Hooks(70%)
+- FAQ
+- HTTP Request (OPTIONS, GET, POST, PUT, PATH, DELETE) (100%)
+- - React Test (40%)
+
+**Today**
+
+- React Test
+- Advanced guides
+- Hooks
