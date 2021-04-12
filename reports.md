@@ -921,3 +921,18 @@ Environment: Nodejs and npm
 **Are there any impediments in your way?**
 
 - No
+
+## Nguyen Tien Manh - 04/12
+
+**Yesterday**
+
+- Typescript (100%)
+- React Test (100%)
+
+**Today**
+
+- Caculator
+
+**Are there any impediments in your way?**
+
+- No
