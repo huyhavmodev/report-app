@@ -904,3 +904,20 @@ Environment: Nodejs and npm
 - RequestAnimationFrame
 - React test
 - TypeScript
+
+# === DAILY REPORT 04/12 ===
+
+## To Khuong Loc - 04/12
+
+**Yesterday**
+
+- Practice: build random quote, simple counter (80%)
+- fix bugs in caculator, random-users(test-trello) (80%)
+
+**Today**
+
+- typescript
+
+**Are there any impediments in your way?**
+
+- No
