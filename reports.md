@@ -963,3 +963,30 @@ Environment: Nodejs and npm
 
 - Make a small React/TypeScipt app
 - useMemo, useCallback
+
+## Le Duy Khanh - 04/12
+
+**Yesterday**
+
+- React document (40%)
+  - Advaned guides(30%)
+  - Hook(50%)
+  - API(50%)
+- Intergrate APIs(20%)
+  - What's API? (100%)
+  - HTTP Request (80%)
+  - CORS issue (50%)
+
+**Today**
+
+- React document
+  - Advaned guides
+  - API reference
+  - Hooks
+  - Testing
+  - FAQ
+- Intergrate APIs
+
+**Are there any impediments in your way?**
+
+- No
