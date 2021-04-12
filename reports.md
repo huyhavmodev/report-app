@@ -952,3 +952,14 @@ Environment: Nodejs and npm
 - React Test
 - Advanced guides
 - Hooks
+
+## Vuong Tuan Anh - 04/12
+
+**Yesterday**\
+
+- null
+
+**Today**
+
+- Make a small React/TypeScipt app
+- useMemo, useCallback
