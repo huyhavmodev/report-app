@@ -952,3 +952,19 @@ Environment: Nodejs and npm
 - React Test
 - Advanced guides
 - Hooks
+
+# === DAILY REPORT 04/13 ===
+
+## Nguyen Minh Hieu - 04/12
+
+**Yesterday**
+
+- React Test (100%)
+- Advanced guides (80%)
+- Hooks (60%)
+
+**Today**
+
+- Hooks
+- build random quote
+- simple counter
