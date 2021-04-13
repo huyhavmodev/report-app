@@ -953,18 +953,129 @@ Environment: Nodejs and npm
 - Advanced guides
 - Hooks
 
+## Vuong Tuan Anh - 04/12
+
+**Yesterday**\
+
+- null
+
+**Today**
+
+- Make a small React/TypeScipt app
+- useMemo, useCallback
+
+## Le Duy Khanh - 04/12
+
+**Yesterday**
+
+- React document (40%)
+  - Advaned guides(30%)
+  - Hook(50%)
+  - API(50%)
+- Intergrate APIs(20%)
+  - What's API? (100%)
+  - HTTP Request (80%)
+  - CORS issue (50%)
+
+**Today**
+
+- React document
+  - Advaned guides
+  - API reference
+  - Hooks
+  - Testing
+  - FAQ
+- Intergrate APIs
+
+**Are there any impediments in your way?**
+
+- No
+
 # === DAILY REPORT 04/13 ===
 
-## Nguyen Minh Hieu - 04/12
+## To Khuong Loc - 04/13
+
+**Yesterday**
+
+- typescript (20%)
+
+**Today**
+
+- tiếp tục học typescript
+
+**Are there any impediments in your way?**
+
+- No
+
+## Nguyen Tien Manh - 04/13
+
+**Yesterday**
+
+- Caculator (50%)
+
+**Today**
+
+- Caculator (100%)
+
+**Are there any impediments in your way?**
+
+- No
+
+## Vuong Tuan Anh - 04/13
+
+**Yesterday**
+
+- Make a small React/TypeScipt app
+- useMemo, useCallback
+
+**Today**
+
+- Continue learning TypeScript React
+- Leetcode
+
+## Hoang Nhat Tan - 04/13
+
+**Yesterday**
+
+- Cookie/loclStorage/sessionStorage
+- Document Object Model
+- Callback
+
+**Today**
+
+- Array
+- Multidimensional Arrays
+- Access and Iterate Through and Array
+- Bubbling and capturing
+- Regular-expressions
+
+## Le Duy Khanh - 04/13
+
+**Yesterday**
+
+- React document (60%)
+- Intergrate APIs(30%)
+- react-test(100%)
+
+**Today**
+
+- React document
+- Intergrate APIs
+- random machine quotes
+
+**Are there any impediments in your way?**
+
+- No
+
+## Nguyen Minh Hieu - 04/13
 
 **Yesterday**
 
 - React Test (100%)
 - Advanced guides (80%)
-- Hooks (60%)
+- Hooks (70%)
 
 **Today**
 
-- Hooks
-- build random quote
-- simple counter
+- random machine quotes
+- counter-app
