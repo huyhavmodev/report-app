@@ -991,7 +991,7 @@ Environment: Nodejs and npm
 
 - No
 
-# === DAILY REPORT 04/12 ===
+# === DAILY REPORT 04/13 ===
 
 ## To Khuong Loc - 04/13
 
@@ -1066,3 +1066,16 @@ Environment: Nodejs and npm
 **Are there any impediments in your way?**
 
 - No
+
+## Nguyen Minh Hieu - 04/13
+
+**Yesterday**
+
+- React Test (100%)
+- Advanced guides (80%)
+- Hooks (70%)
+
+**Today**
+
+- random machine quotes
+- counter-app
