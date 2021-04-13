@@ -990,3 +990,19 @@ Environment: Nodejs and npm
 **Are there any impediments in your way?**
 
 - No
+
+# === DAILY REPORT 04/12 ===
+
+## To Khuong Loc - 04/13
+
+**Yesterday**
+
+- typescript (20%)
+
+**Today**
+
+- tiếp tục học typescript
+
+**Are there any impediments in your way?**
+
+- No
