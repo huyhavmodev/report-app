@@ -1031,18 +1031,38 @@ Environment: Nodejs and npm
 **Today**
 
 - Continue learning TypeScript React
-- Leetcode 
+- Leetcode
 
 ## Hoang Nhat Tan - 04/13
 
 **Yesterday**
+
 - Cookie/loclStorage/sessionStorage
 - Document Object Model
 - Callback
 
 **Today**
+
 - Array
 - Multidimensional Arrays
 - Access and Iterate Through and Array
 - Bubbling and capturing
 - Regular-expressions
+
+## Le Duy Khanh - 04/13
+
+**Yesterday**
+
+- React document (60%)
+- Intergrate APIs(30%)
+- react-test(100%)
+
+**Today**
+
+- React document
+- Intergrate APIs
+- random machine quotes
+
+**Are there any impediments in your way?**
+
+- No
