@@ -1020,3 +1020,15 @@ Environment: Nodejs and npm
 **Are there any impediments in your way?**
 
 - No
+
+## Vuong Tuan Anh - 04/13
+
+**Yesterday**
+
+- Make a small React/TypeScipt app
+- useMemo, useCallback
+
+**Today**
+
+- Continue learning TypeScript React
+- Leetcode 
