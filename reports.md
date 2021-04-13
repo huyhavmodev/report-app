@@ -1006,3 +1006,17 @@ Environment: Nodejs and npm
 **Are there any impediments in your way?**
 
 - No
+
+## Nguyen Tien Manh - 04/13
+
+**Yesterday**
+
+- Caculator (50%)
+
+**Today**
+
+- Caculator (100%)
+
+**Are there any impediments in your way?**
+
+- No
