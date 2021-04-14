@@ -1079,3 +1079,19 @@ Environment: Nodejs and npm
 
 - random machine quotes
 - counter-app
+
+# === DAILY REPORT 04/14 ===
+
+## Nguyen Tien Manh - 04/14
+
+**Yesterday**
+
+- Caculator (100%)
+
+**Today**
+
+- Make a small ReactJS app
+
+**Are there any impediments in your way?**
+
+- No
