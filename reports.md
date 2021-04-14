@@ -1113,16 +1113,19 @@ Environment: Nodejs and npm
 ## Hoang Nhat Tan -04/08
 
 **Yesterday**
+
 - Hoisting
 - Scope and Closure
 - Condition statement
 - Data type
 
 **Today**
+
 - Object, Prototype & Inheritance
 - Immutable/Mutable, Pass by Value/Reference
 
 **Are there any impediments in your way?**
+
 - No
 
 ## Vuong Tuan Anh - 04/14
@@ -1138,3 +1141,22 @@ Environment: Nodejs and npm
 - Continue learning TypeScript React
 - Custom hooks
 - NodeJS
+
+## Le Duy Khanh - 04/14
+
+**Yesterday**
+
+- React document (60%)
+- Intergrate APIs(30%)
+- react-counter-app(80%)
+- react-random-quote-machine(80%)
+
+**Today**
+
+- redux
+- immerjs
+- react-todo-list-app
+
+**Are there any impediments in your way?**
+
+- No
