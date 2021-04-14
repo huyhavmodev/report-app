@@ -1125,3 +1125,16 @@ Environment: Nodejs and npm
 **Are there any impediments in your way?**
 - No
 
+## Vuong Tuan Anh - 04/14
+
+**Yesterday**
+
+- Wrote a TodoList with React TypeScript
+- Thunk
+- Leetcode
+
+**Today**
+
+- Continue learning TypeScript React
+- Custom hooks
+- NodeJS
