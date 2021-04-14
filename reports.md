@@ -1095,3 +1095,17 @@ Environment: Nodejs and npm
 **Are there any impediments in your way?**
 
 - No
+
+## To Khuong Loc - 04/14
+
+**Yesterday**
+
+- typescript (50%)
+
+**Today**
+
+- Áp dụng typescript trong react-redux
+
+**Are there any impediments in your way?**
+
+- No
