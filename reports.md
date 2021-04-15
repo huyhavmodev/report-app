@@ -1216,3 +1216,22 @@ Environment: Nodejs and npm
 **Are there any impediments in your way?**
 
 - No
+
+## Hoang Nhat Tan - 04/15
+
+**Yesterday**
+
+- Ajax and Json
+- Promise, Async/await
+- Ajax request
+- Es6
+
+**Today**
+
+- Git
+- HTML/CSS test
+- Js test
+
+**Are there any impediments in your way?**
+
+- No
