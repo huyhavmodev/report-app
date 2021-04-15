@@ -1202,3 +1202,17 @@ Environment: Nodejs and npm
 **Are there any impediments in your way?**
 
 - No
+
+## Nguyen Tien Manh - 04/15
+
+**Yesterday**
+
+- Make a small ReactJS app
+
+**Today**
+
+- Continue to make a ReactJS app
+
+**Are there any impediments in your way?**
+
+- No
