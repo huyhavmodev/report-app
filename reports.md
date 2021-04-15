@@ -1236,4 +1236,19 @@ Environment: Nodejs and npm
 
 - No
 
+## Le Duy Khanh - 04/15
 
+**Yesterday**
+
+- react-todo-list-app (50%)
+
+**Today**
+
+- redux
+- immerjs
+- react-todo-list-app
+- integrate local storage for react-todo-list-app
+
+**Are there any impediments in your way?**
+
+- No
