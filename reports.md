@@ -1173,3 +1173,18 @@ Environment: Nodejs and npm
 - counter-app
 - todo app
 - redux
+
+# === DAILY REPORT 04/15 ===
+
+## Vuong Tuan Anh - 04/15
+
+**Yesterday**
+
+- Continue learning TypeScript React
+- Custom hooks
+- Regex 
+
+**Today**
+
+- Continue learning TypeScript React
+- Review JS knowledge
