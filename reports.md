@@ -1182,9 +1182,23 @@ Environment: Nodejs and npm
 
 - Continue learning TypeScript React
 - Custom hooks
-- Regex 
+- Regex
 
 **Today**
 
 - Continue learning TypeScript React
 - Review JS knowledge
+
+## To Khuong Loc - 04/15
+
+**Yesterday**
+
+- Áp dụng typescript trong react-redux(60%):(cơ bản hiểu cách dùng)
+
+**Today**
+
+- tiếp tục tìm hiểu react-redux-typescript
+
+**Are there any impediments in your way?**
+
+- No
