@@ -1296,3 +1296,25 @@ Environment: Nodejs and npm
 
 - Continue learning TypeScript React
 - Review JS knowledge
+
+## Le Duy Khanh - 04/16
+
+**Yesterday**
+
+- integrate local storage for react-todo-list-app(100%)
+- react-todo-list-app (80%)
+- redux (10%)
+- immerjs (5%)
+
+**Today**
+
+- intergrate redux on
+  - react-todo-list-app
+  - react-counter-app
+  - react-random-quote-machine-app
+- redux (10%)
+- immerjs (5%)
+
+**Are there any impediments in your way?**
+
+- No
