@@ -1284,3 +1284,15 @@ Environment: Nodejs and npm
 **Are there any impediments in your way?**
 
 - No
+
+## Vuong Tuan Anh - 04/16
+
+**Yesterday**
+
+- Continue learning TypeScript React
+- Review JS knowledge
+
+**Today**
+
+- Continue learning TypeScript React
+- Review JS knowledge
