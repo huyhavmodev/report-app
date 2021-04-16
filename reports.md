@@ -1296,3 +1296,19 @@ Environment: Nodejs and npm
 
 - Continue learning TypeScript React
 - Review JS knowledge
+
+## Hoang Nhat Tan - 04/16
+
+**Yesterday**
+
+- HTML/CSS test.
+- Javascript test.
+
+**Today**
+
+- Enviroment: Nodejs and npm
+- React tutorial
+
+**Are there any impediments in your way?**
+
+- No
