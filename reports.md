@@ -768,14 +768,531 @@ Environment: Nodejs and npm
 ## Hoang Nhat Tan -04/08
 
 **Yesterday**
+
 - Hoisting
 - Scope and Closure
 - Condition statement
 - Data type
 
 **Today**
+
 - Object, Prototype & Inheritance
 - Immutable/Mutable, Pass by Value/Reference
 
 **Are there any impediments in your way?**
+
 - No
+
+## Nguyen Minh Hieu - 04/08
+
+**Yesterday**
+
+- Main concepts (50%)
+- Advanced guides
+- Hooks
+- FAQ
+- HTTP Request (OPTIONS, GET, POST, PUT, PATH, DELETE)
+- Postman (80%)
+- What's API? (80%)
+
+**Today**
+
+- Main concepts
+- Advanced guides
+- Hooks
+- FAQ
+- HTTP Request (OPTIONS, GET, POST, PUT, PATH, DELETE)
+
+## Vuong Tuan Anh - 04/07
+
+**Yesterday**
+
+- More git learning
+- NodeJS
+
+**Today**
+
+- React drag and drop
+- React test
+- Leetcode training
+
+# === DAILY REPORT 04/09 ===
+
+## To Khuong Loc - 04/09
+
+**Yesterday**
+
+- Practice: build a simple caculator(80%)
+
+**Today**
+
+- Practice: build random quote, simple counter
+- fix bugs in caculator, random-users(test-trello)
+
+**Are there any impediments in your way?**
+
+- No
+
+## Nguyen Tien Manh - 04/09
+
+**Yesterday**
+
+- Typescript (60%)
+
+**Today**
+
+- Typescript (100%)
+- React Test
+
+**Are there any impediments in your way?**
+
+- No
+
+## Le Duy Khanh - 04/09
+
+**Yesterday**
+
+- React-counter-app(90%)
+- React document (20%)
+  - Main concepts(100%)
+  - Advaned guides(30%)
+- Intergrate APIs(5%)
+  - What's API? (60%)
+
+**Today**
+
+- React-counter-app
+- React document
+  - Advaned guides
+  - API reference
+  - Hooks
+  - Testing
+  - FAQ
+- Intergrate APIs
+
+**Are there any impediments in your way?**
+
+- No
+
+## Nguyen Minh Hieu - 04/09
+
+**Yesterday**
+
+- Main concepts (100%)
+- Advanced guides
+- Hooks
+- FAQ
+- HTTP Request (OPTIONS, GET, POST, PUT, PATH, DELETE)
+
+**Today**
+
+- Advanced guides
+- Hooks
+- FAQ
+- HTTP Request (OPTIONS, GET, POST, PUT, PATH, DELETE)
+
+## Vuong Tuan Anh - 04/09
+
+**Yesterday**
+
+- React drag and drop
+- React test
+- Leetcode training
+
+**Today**
+
+- RequestAnimationFrame
+- React test
+- TypeScript
+
+# === DAILY REPORT 04/12 ===
+
+## To Khuong Loc - 04/12
+
+**Yesterday**
+
+- Practice: build random quote, simple counter (80%)
+- fix bugs in caculator, random-users(test-trello) (80%)
+
+**Today**
+
+- typescript
+
+**Are there any impediments in your way?**
+
+- No
+
+## Nguyen Tien Manh - 04/12
+
+**Yesterday**
+
+- Typescript (100%)
+- React Test (100%)
+
+**Today**
+
+- Caculator
+
+**Are there any impediments in your way?**
+
+- No
+
+## Nguyen Minh Hieu - 04/12
+
+**Yesterday**\
+
+- Advanced guides (50%)
+- Hooks(70%)
+- FAQ
+- HTTP Request (OPTIONS, GET, POST, PUT, PATH, DELETE) (100%)
+- - React Test (40%)
+
+**Today**
+
+- React Test
+- Advanced guides
+- Hooks
+
+## Vuong Tuan Anh - 04/12
+
+**Yesterday**\
+
+- null
+
+**Today**
+
+- Make a small React/TypeScipt app
+- useMemo, useCallback
+
+## Le Duy Khanh - 04/12
+
+**Yesterday**
+
+- React document (40%)
+  - Advaned guides(30%)
+  - Hook(50%)
+  - API(50%)
+- Intergrate APIs(20%)
+  - What's API? (100%)
+  - HTTP Request (80%)
+  - CORS issue (50%)
+
+**Today**
+
+- React document
+  - Advaned guides
+  - API reference
+  - Hooks
+  - Testing
+  - FAQ
+- Intergrate APIs
+
+**Are there any impediments in your way?**
+
+- No
+
+# === DAILY REPORT 04/13 ===
+
+## To Khuong Loc - 04/13
+
+**Yesterday**
+
+- typescript (20%)
+
+**Today**
+
+- tiếp tục học typescript
+
+**Are there any impediments in your way?**
+
+- No
+
+## Nguyen Tien Manh - 04/13
+
+**Yesterday**
+
+- Caculator (50%)
+
+**Today**
+
+- Caculator (100%)
+
+**Are there any impediments in your way?**
+
+- No
+
+## Vuong Tuan Anh - 04/13
+
+**Yesterday**
+
+- Make a small React/TypeScipt app
+- useMemo, useCallback
+
+**Today**
+
+- Continue learning TypeScript React
+- Leetcode
+
+## Hoang Nhat Tan - 04/13
+
+**Yesterday**
+
+- Cookie/loclStorage/sessionStorage
+- Document Object Model
+- Callback
+
+**Today**
+
+- Array
+- Multidimensional Arrays
+- Access and Iterate Through and Array
+- Bubbling and capturing
+- Regular-expressions
+
+## Le Duy Khanh - 04/13
+
+**Yesterday**
+
+- React document (60%)
+- Intergrate APIs(30%)
+- react-test(100%)
+
+**Today**
+
+- React document
+- Intergrate APIs
+- random machine quotes
+
+**Are there any impediments in your way?**
+
+- No
+
+## Nguyen Minh Hieu - 04/13
+
+**Yesterday**
+
+- React Test (100%)
+- Advanced guides (80%)
+- Hooks (70%)
+
+**Today**
+
+- random machine quotes
+- counter-app
+
+# === DAILY REPORT 04/14 ===
+
+## Nguyen Tien Manh - 04/14
+
+**Yesterday**
+
+- Caculator (100%)
+
+**Today**
+
+- Make a small ReactJS app
+
+**Are there any impediments in your way?**
+
+- No
+
+## To Khuong Loc - 04/14
+
+**Yesterday**
+
+- typescript (50%)
+
+**Today**
+
+- Áp dụng typescript trong react-redux
+
+**Are there any impediments in your way?**
+
+- No
+
+## Hoang Nhat Tan -04/08
+
+**Yesterday**
+
+- Hoisting
+- Scope and Closure
+- Condition statement
+- Data type
+
+**Today**
+
+- Object, Prototype & Inheritance
+- Immutable/Mutable, Pass by Value/Reference
+
+**Are there any impediments in your way?**
+
+- No
+
+## Vuong Tuan Anh - 04/14
+
+**Yesterday**
+
+- Wrote a TodoList with React TypeScript
+- Thunk
+- Leetcode
+
+**Today**
+
+- Continue learning TypeScript React
+- Custom hooks
+- NodeJS
+
+## Le Duy Khanh - 04/14
+
+**Yesterday**
+
+- React document (60%)
+- Intergrate APIs(30%)
+- react-counter-app(80%)
+- react-random-quote-machine(80%)
+
+**Today**
+
+- redux
+- immerjs
+- react-todo-list-app
+
+**Are there any impediments in your way?**
+
+- No
+
+## Nguyen Minh Hieu - 04/14
+
+**Yesterday**
+
+- random machine quotes (80%)
+- counter-app (80%)
+  **Today**
+
+- random machine quotes
+- counter-app
+- todo app
+- redux
+
+# === DAILY REPORT 04/15 ===
+
+## Vuong Tuan Anh - 04/15
+
+**Yesterday**
+
+- Continue learning TypeScript React
+- Custom hooks
+- Regex
+
+**Today**
+
+- Continue learning TypeScript React
+- Review JS knowledge
+
+## To Khuong Loc - 04/15
+
+**Yesterday**
+
+- Áp dụng typescript trong react-redux(60%):(cơ bản hiểu cách dùng)
+
+**Today**
+
+- tiếp tục tìm hiểu react-redux-typescript
+
+**Are there any impediments in your way?**
+
+- No
+
+## Nguyen Tien Manh - 04/15
+
+**Yesterday**
+
+- Make a small ReactJS app
+
+**Today**
+
+- Continue to make a ReactJS app
+
+**Are there any impediments in your way?**
+
+- No
+
+## Hoang Nhat Tan - 04/15
+
+**Yesterday**
+
+- Ajax and Json
+- Promise, Async/await
+- Ajax request
+- Es6
+
+**Today**
+
+- Git
+- HTML/CSS test
+- Js test
+
+**Are there any impediments in your way?**
+
+- No
+
+## Le Duy Khanh - 04/15
+
+**Yesterday**
+
+- react-todo-list-app (50%)
+
+**Today**
+
+- redux
+- immerjs
+- react-todo-list-app
+- integrate local storage for react-todo-list-app
+
+**Are there any impediments in your way?**
+
+- No
+
+## Nguyen Minh Hieu - 04/15
+
+**Yesterday**
+
+- random machine quotes (100%)
+- counter-app (100%)
+  **Today**
+
+- todo app
+- caculator
+- redux
+
+# === DAILY REPORT 04/16 ===
+
+## To Khuong Loc - 04/16
+
+**Yesterday**
+
+- Typescript trong react-redux(70%):(cơ bản hiểu cách dùng):
+  - Cài đặt type script - react - redux (100%)
+  - Tìm hiểu cách xây dựng cấu trúc project (50%)
+  - Thực hành project nhỏ: search npm package (100%)
+
+**Today**
+
+- Review lại kiến thức đã học
+- Tiếp tục tìm hiểu react-redux-typescript
+
+**Are there any impediments in your way?**
+
+- No
+
+## Vuong Tuan Anh - 04/16
+
+**Yesterday**
+
+- Continue learning TypeScript React
+- Review JS knowledge
+
+**Today**
+
+- Continue learning TypeScript React
+- Review JS knowledge
