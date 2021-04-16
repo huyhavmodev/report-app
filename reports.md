@@ -1334,3 +1334,16 @@ Environment: Nodejs and npm
 **Are there any impediments in your way?**
 
 - No
+
+## Nguyen Minh Hieu - 04/16
+
+**Yesterday**
+
+- random machine quotes (100%)
+- counter-app (100%)
+- redux (80%)
+  **Today**
+
+- todo app
+- caculator
+- redux
