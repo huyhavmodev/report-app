@@ -1318,3 +1318,19 @@ Environment: Nodejs and npm
 **Are there any impediments in your way?**
 
 - No
+
+## Hoang Nhat Tan - 04/16
+
+**Yesterday**
+
+- HTML/CSS test.
+- Javascript test.
+
+**Today**
+
+- Enviroment: Nodejs and npm
+- React tutorial
+
+**Are there any impediments in your way?**
+
+- No
