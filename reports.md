@@ -1264,3 +1264,23 @@ Environment: Nodejs and npm
 - todo app
 - caculator
 - redux
+
+# === DAILY REPORT 04/16 ===
+
+## To Khuong Loc - 04/16
+
+**Yesterday**
+
+- Typescript trong react-redux(70%):(cơ bản hiểu cách dùng):
+  - Cài đặt type script - react - redux (100%)
+  - Tìm hiểu cách xây dựng cấu trúc project (50%)
+  - Thực hành project nhỏ: search npm package (100%)
+
+**Today**
+
+- Review lại kiến thức đã học
+- Tiếp tục tìm hiểu react-redux-typescript
+
+**Are there any impediments in your way?**
+
+- No
