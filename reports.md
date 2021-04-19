@@ -1391,3 +1391,19 @@ Environment: Nodejs and npm
 **Are there any impediments in your way?**
 
 - No
+
+## Nguyen Minh Hieu - 04/19
+
+**Yesterday**
+
+- todo app (70%)
+- caculator (80%)
+- redux
+  **Today**
+
+- todo app
+- caculator
+- redux
+  **Are there any impediments in your way?**
+
+- No
