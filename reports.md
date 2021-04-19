@@ -1377,3 +1377,17 @@ Environment: Nodejs and npm
 **Are there any impediments in your way?**
 
 - No
+
+## Hoang Nhat Tan - 04/19
+
+**Yesterday**
+
+- Reading react's document
+
+**Today**
+
+- Continue with React's tutorial
+
+**Are there any impediments in your way?**
+
+- No
