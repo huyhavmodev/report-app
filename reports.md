@@ -1347,3 +1347,33 @@ Environment: Nodejs and npm
 - todo app
 - caculator
 - redux
+
+## Nguyen Tien Manh - 04/16
+
+**Yesterday**
+
+- Continue to make a ReactJS app
+
+**Today**
+
+- Continue to make a ReactJS app
+
+**Are there any impediments in your way?**
+
+- No
+
+# === DAILY REPORT 04/19 ===
+
+## Nguyen Tien Manh - 04/19
+
+**Yesterday**
+
+- Continue to make a ReactJS app
+
+**Today**
+
+- Continue to make a ReactJS app
+
+**Are there any impediments in your way?**
+
+- No
