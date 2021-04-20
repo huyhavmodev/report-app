@@ -1407,3 +1407,26 @@ Environment: Nodejs and npm
   **Are there any impediments in your way?**
 
 - No
+
+# === DAILY REPORT 04/20 ===
+
+## To Khuong Loc - 04/20
+
+**Yesterday**
+
+- Đọc tài liệu trên trang chủ typescript:
+  - Js for Javascript programmer
+  - Handbook:
+    - The Basic
+    - Everyday types
+    - Narrowing
+
+**Today**
+
+- Tiếp tục đọc tài liệu typesipt
+  - More on functions
+  - Object types...
+
+**Are there any impediments in your way?**
+
+- No
