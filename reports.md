@@ -1479,3 +1479,22 @@ Environment: Nodejs and npm
 **Are there any impediments in your way?**
 - No
 
+# === DAILY REPORT 04/29 ===
+
+## Hoang Nhat Tan - 04/28
+
+**Yesterday**
+
+- State management
+  - React context
+  - Flux Architecture
+  - Redux
+  - Async: Redux thunk (70%)
+  
+**Today**
+
+- State managment
+- Todo App
+
+**Are there any impediments in your way?**
+- No
