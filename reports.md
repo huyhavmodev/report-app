@@ -1297,6 +1297,28 @@ Environment: Nodejs and npm
 - Continue learning TypeScript React
 - Review JS knowledge
 
+## Le Duy Khanh - 04/16
+
+**Yesterday**
+
+- integrate local storage for react-todo-list-app(100%)
+- react-todo-list-app (80%)
+- redux (10%)
+- immerjs (5%)
+
+**Today**
+
+- intergrate redux on
+  - react-todo-list-app
+  - react-counter-app
+  - react-random-quote-machine-app
+- redux (10%)
+- immerjs (5%)
+
+**Are there any impediments in your way?**
+
+- No
+
 ## Hoang Nhat Tan - 04/16
 
 **Yesterday**
@@ -1312,3 +1334,148 @@ Environment: Nodejs and npm
 **Are there any impediments in your way?**
 
 - No
+
+## Nguyen Minh Hieu - 04/16
+
+**Yesterday**
+
+- random machine quotes (100%)
+- counter-app (100%)
+- redux (80%)
+  **Today**
+
+- todo app
+- caculator
+- redux
+
+## Nguyen Tien Manh - 04/16
+
+**Yesterday**
+
+- Continue to make a ReactJS app
+
+**Today**
+
+- Continue to make a ReactJS app
+
+**Are there any impediments in your way?**
+
+- No
+
+# === DAILY REPORT 04/19 ===
+
+## Nguyen Tien Manh - 04/19
+
+**Yesterday**
+
+- Continue to make a ReactJS app
+
+**Today**
+
+- Continue to make a ReactJS app
+
+**Are there any impediments in your way?**
+
+- No
+
+## Hoang Nhat Tan - 04/19
+
+**Yesterday**
+
+- Reading react's document
+
+**Today**
+
+- Continue with React's tutorial
+
+**Are there any impediments in your way?**
+
+- No
+
+## Nguyen Minh Hieu - 04/19
+
+**Yesterday**
+
+- todo app (70%)
+- caculator (80%)
+- redux
+  **Today**
+
+- todo app
+- caculator
+- redux
+  **Are there any impediments in your way?**
+
+- No
+
+# === DAILY REPORT 04/20 ===
+
+## To Khuong Loc - 04/20
+
+**Yesterday**
+
+- Đọc tài liệu trên trang chủ typescript:
+  - Js for Javascript programmer
+  - Handbook:
+    - The Basic
+    - Everyday types
+    - Narrowing
+
+**Today**
+
+- Tiếp tục đọc tài liệu typesipt
+  - More on functions
+  - Object types...
+
+**Are there any impediments in your way?**
+
+- No
+
+## Hoang Nhat Tan - 04/20
+**Yesterday**
+- React Tutorial:
+  - Main concepts
+  - Advanced guides
+  - Hooks
+  -
+**Today**
+- Integrate API
+
+**Are there any impediments in your way?**
+- No
+
+# === DAILY REPORT 04/28 ===
+
+##  Vuong Tuan Anh - 04/28
+
+**Yesterday**
+
+- Xây dựng backend với nodeJS express cho project web xem phim
+
+**Today**
+
+- Tiếp tục hoàn thiện backend
+
+**Are there any impediments in your way?**
+
+- No
+
+## Hoang Nhat Tan - 04/28
+
+**Yesterday**
+
+- React Test
+  - Task 1: completed.
+  - Task 2: completed.
+  
+**Today**
+
+- State management
+  - React context
+  - Flux Architecture
+  - Redux
+  - Async: Redux thunk
+
+**Are there any impediments in your way?**
+- No
+
