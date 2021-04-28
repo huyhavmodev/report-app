@@ -1433,7 +1433,7 @@ Environment: Nodejs and npm
 
 # === DAILY REPORT 04/28 ===
 
-##  Vuong Tuan Anh - 04/28
+## Vuong Tuan Anh - 04/28
 
 **Yesterday**
 
@@ -1442,6 +1442,21 @@ Environment: Nodejs and npm
 **Today**
 
 - Tiếp tục hoàn thiện backend
+
+**Are there any impediments in your way?**
+
+- No
+
+## Le Duy Khanh - 04/28
+
+**Yesterday**
+
+- Phân tích bài toán theo ngôn ngữ tự nhiên
+
+**Today**
+
+- Phân tích bài toán theo ngôn ngữ UML
+- Tìm hiểu về các step để tạo api cho project
 
 **Are there any impediments in your way?**
 
