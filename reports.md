@@ -1431,6 +1431,19 @@ Environment: Nodejs and npm
 
 - No
 
+## Hoang Nhat Tan - 04/20
+**Yesterday**
+- React Tutorial:
+  - Main concepts
+  - Advanced guides
+  - Hooks
+  -
+**Today**
+- Integrate API
+
+**Are there any impediments in your way?**
+- No
+
 # === DAILY REPORT 04/28 ===
 
 ##  Vuong Tuan Anh - 04/28
@@ -1446,3 +1459,23 @@ Environment: Nodejs and npm
 **Are there any impediments in your way?**
 
 - No
+
+## Hoang Nhat Tan - 04/28
+
+**Yesterday**
+
+- React Test
+  - Task 1: completed.
+  - Task 2: completed.
+  
+**Today**
+
+- State management
+  - React context
+  - Flux Architecture
+  - Redux
+  - Async: Redux thunk
+
+**Are there any impediments in your way?**
+- No
+
