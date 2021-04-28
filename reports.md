@@ -1430,3 +1430,19 @@ Environment: Nodejs and npm
 **Are there any impediments in your way?**
 
 - No
+
+# === DAILY REPORT 04/28 ===
+
+##  Vuong Tuan Anh - 04/28
+
+**Yesterday**
+
+- Xây dựng backend với nodeJS express cho project web xem phim
+
+**Today**
+
+- Tiếp tục hoàn thiện backend
+
+**Are there any impediments in your way?**
+
+- No
