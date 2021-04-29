@@ -1431,6 +1431,21 @@ Environment: Nodejs and npm
 
 - No
 
+## Hoang Nhat Tan - 04/20
+
+**Yesterday**
+
+- React Tutorial:
+  - Main concepts
+  - Advanced guides
+  - Hooks
+  - **Today**
+- Integrate API
+
+**Are there any impediments in your way?**
+
+- No
+
 # === DAILY REPORT 04/28 ===
 
 ## Vuong Tuan Anh - 04/28
@@ -1457,6 +1472,63 @@ Environment: Nodejs and npm
 
 - Phân tích bài toán theo ngôn ngữ UML
 - Tìm hiểu về các step để tạo api cho project
+
+**Are there any impediments in your way?**
+
+- No
+
+## Hoang Nhat Tan - 04/28
+
+**Yesterday**
+
+- React Test
+  - Task 1: completed.
+  - Task 2: completed.
+
+**Today**
+
+- State management
+  - React context
+  - Flux Architecture
+  - Redux
+  - Async: Redux thunk
+
+**Are there any impediments in your way?**
+
+- No
+
+# === DAILY REPORT 04/29 ===
+
+## Hoang Nhat Tan - 04/28
+
+**Yesterday**
+
+- State management
+  - React context
+  - Flux Architecture
+  - Redux
+  - Async: Redux thunk (70%)
+
+**Today**
+
+- State managment
+- Todo App
+
+**Are there any impediments in your way?**
+
+- No
+
+## Vuong Tuan Anh - 04/29
+
+**Yesterday**
+
+- 80% done on the backend
+- Unit testing class
+
+**Today**
+
+- Start with the frontend.
+- Find a suitable design, constructing routes, setting environment and libraries
 
 **Are there any impediments in your way?**
 
