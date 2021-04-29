@@ -1498,3 +1498,19 @@ Environment: Nodejs and npm
 
 **Are there any impediments in your way?**
 - No
+
+##  Vuong Tuan Anh - 04/29
+
+**Yesterday**
+
+- 80% done on the backend
+- Unit testing class
+
+**Today**
+
+- Start with the frontend. 
+- Find a suitable design, constructing routes, setting environment and libraries
+
+**Are there any impediments in your way?**
+
+- No
