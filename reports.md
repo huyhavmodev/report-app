@@ -1559,7 +1559,7 @@ Environment: Nodejs and npm
   - Thiết kế biểu đồ lớp
   - Thiết kế biểu đồ hoạt động
   - Thiết kế biểu đồ tuần tự
-- Tìm hiểu về các step để tạo api cho project
+- Tìm hiểu về các step để tạo api cho project của mình
 
 **Are there any impediments in your way?**
 
