@@ -1533,3 +1533,34 @@ Environment: Nodejs and npm
 **Are there any impediments in your way?**
 
 - No
+
+## Le Duy Khanh - 04/29
+
+**Yesterday**
+
+- Phân tích bài toán theo ngôn ngữ UML(50%)
+  - Biểu đồ usecase tổng quát (100%)
+  - Biểu đồ usecase chi tiết cho từng chức năng(20%)
+
+**Today**
+
+- Phân tích bài toán theo ngôn ngữ UML
+  - Biểu đồ usecase chi tiết cho từng chức năng
+- Phân tích thiết kế:
+  - Viết kịch bản
+  - Trích các lớp thực thể
+  - Biểu đồ trạng thái
+  - Biểu đồ lớp biên
+  - Biểu đồ giao tiếp
+- Thiết kế:
+  - Thiết kế lớp thực thể
+  - Thiết kế CSDL
+  - Thiết kế giao diện
+  - Thiết kế biểu đồ lớp
+  - Thiết kế biểu đồ hoạt động
+  - Thiết kế biểu đồ tuần tự
+- Tìm hiểu về các step để tạo api cho project
+
+**Are there any impediments in your way?**
+
+- No
