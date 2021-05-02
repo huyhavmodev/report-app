@@ -1564,3 +1564,20 @@ Environment: Nodejs and npm
 **Are there any impediments in your way?**
 
 - No
+
+# === DAILY REPORT 05/02 ===
+
+## Hoang Nhat Tan 05/02
+
+**Yesterday**
+
+- State management
+- Todo App
+
+**Today**
+
+- Random quote App
+
+**Are there any impediments in your way?**
+
+- No
