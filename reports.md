@@ -1598,3 +1598,34 @@ Environment: Nodejs and npm
 **Are there any impediments in your way?**
 
 - No
+
+# === DAILY REPORT 05/04 ===
+
+## Le Duy Khanh - 05/04
+
+**Yesterday**
+
+- Phân tích bài toán theo ngôn ngữ UML
+  - Biểu đồ usecase chi tiết cho từng chức năng (100%)
+- Phân tích thiết kế:
+  - Trích các lớp thực thể(100%)
+  - Biểu đồ trạng thái(100%)
+  - Biểu đồ lớp biên(100%)
+  - Biểu đồ giao tiếp(100%)
+- Thiết kế:
+  - Thiết kế lớp thực thể(100%)
+  - Thiết kế CSDL(100%)
+  - Thiết kế giao diện(50%)
+  - Thiết kế biểu đồ lớp(100%)
+  - Thiết kế biểu đồ hoạt động(100%)
+- Tìm hiểu về các step để tạo api cho project của mình(50%)
+
+**Today**
+
+- Giao diện Home Khách hàng
+- Giao diện mặt hàng chi tiết
+- Giao diện danh sách sản phẩm
+
+**Are there any impediments in your way?**
+
+- No
