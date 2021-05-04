@@ -1601,7 +1601,6 @@ Environment: Nodejs and npm
 
 # === DAILY REPORT 05/04 ===
 
-<<<<<<< HEAD
 ## Le Duy Khanh - 05/04
 
 **Yesterday**
@@ -1630,7 +1629,7 @@ Environment: Nodejs and npm
 **Are there any impediments in your way?**
 
 - No
-=======
+
 ## Hoang Nhat Tan 05/04
 
 **Today**
@@ -1640,4 +1639,3 @@ Environment: Nodejs and npm
 **Are there any impediments in your way?**
 
 - No
->>>>>>> 18532816f9d3dfb8b76be9333f5fbebdcad27a81
