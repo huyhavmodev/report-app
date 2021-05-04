@@ -1598,3 +1598,15 @@ Environment: Nodejs and npm
 **Are there any impediments in your way?**
 
 - No
+
+# === DAILY REPORT 05/04 ===
+
+## Hoang Nhat Tan 05/04
+
+**Today**
+
+- Start on the frontend
+
+**Are there any impediments in your way?**
+
+- No
