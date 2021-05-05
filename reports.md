@@ -1639,3 +1639,21 @@ Environment: Nodejs and npm
 **Are there any impediments in your way?**
 
 - No
+
+# === DAILY REPORT 05/05 ===
+
+## Le Duy Khanh - 05/05
+
+**Yesterday**
+
+- Giao diện Home Khách hàng(30%)
+
+**Today**
+
+- Giao diện Home Khách hàng
+- Giao diện mặt hàng chi tiết
+- Giao diện danh sách sản phẩm
+
+**Are there any impediments in your way?**
+
+- No
