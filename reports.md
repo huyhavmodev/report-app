@@ -1671,3 +1671,17 @@ Environment: Nodejs and npm
 **Are there any impediments in your way?**
 
 - No
+
+## Hoang Nhat Tan 05/05
+
+**Yesterday**
+
+- Random quote machine (90%)
+
+**Today**
+
+- Typescript
+
+**Are there any impediments in your way?**
+
+- No
