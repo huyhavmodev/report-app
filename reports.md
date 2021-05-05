@@ -1657,3 +1657,17 @@ Environment: Nodejs and npm
 **Are there any impediments in your way?**
 
 - No
+
+## Vuong Tuan Anh 05/05
+
+**Yesterday**
+
+- Frontend (Homepage)
+
+**Today**
+
+- Continue on the frontend (Streaming page + admin)
+
+**Are there any impediments in your way?**
+
+- No
