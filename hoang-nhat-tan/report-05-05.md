@@ -54,6 +54,6 @@
 
  - Giống với Js, TypeScript có 2 kiểu khai báo function là Named function và Anonymous function nhưng Ts hỗ trợ việc khai báo kiểu dữ liệu của input và output 
 
- ```ts
+ ```js
  var add = function(x: number, y: number) : number{ return x + y; };
  ```
