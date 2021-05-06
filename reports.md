@@ -1685,3 +1685,20 @@ Environment: Nodejs and npm
 **Are there any impediments in your way?**
 
 - No
+
+# === DAILY REPORT 05/06 ===
+
+## Vuong Tuan Anh 05/06
+
+**Yesterday**
+
+- Movie streaming page, preview page
+- Login & Register pages
+
+**Today**
+
+- Working on admin screens
+
+**Are there any impediments in your way?**
+
+- No
