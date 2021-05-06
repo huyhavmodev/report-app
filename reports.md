@@ -1702,3 +1702,18 @@ Environment: Nodejs and npm
 **Are there any impediments in your way?**
 
 - No
+
+## Hoang Nhat Tan 05/06
+
+**Yesterday**
+
+- Random quote machine (done)
+- Typescript
+**Today**
+
+- Continue with Typescript
+- Make a mini project
+
+**Are there any impediments in your way?**
+
+- No
