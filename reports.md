@@ -1709,7 +1709,7 @@ Environment: Nodejs and npm
 
 - Random quote machine (done)
 - Typescript
-**Today**
+  **Today**
 
 - Continue with Typescript
 - Make a mini project
@@ -1729,6 +1729,29 @@ Environment: Nodejs and npm
 **Today**
 
 - Finishing frontend UI and integrating FE into BE
+
+**Are there any impediments in your way?**
+
+- No
+
+## Le Duy Khanh - 05/07
+
+**Yesterday**
+
+- Giao diện Home Khách hàng(100%)
+- Giao diện mặt hàng chi tiết(30%)
+- Giao diện danh sách sản phẩm(100%)
+
+**Today**
+
+- Giao diện mặt hàng chi tiết
+- Giao diện login
+- Giao diện home khi khách hàng đã đăng nhập
+- Giao diện giỏ hàng
+- Redux store
+  - User login data
+  - User cart
+  - List product
 
 **Are there any impediments in your way?**
 
