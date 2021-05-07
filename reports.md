@@ -1717,3 +1717,19 @@ Environment: Nodejs and npm
 **Are there any impediments in your way?**
 
 - No
+
+# === DAILY REPORT 05/07 ===
+
+## Vuong Tuan Anh 05/07
+
+**Yesterday**
+
+- Admin screens: User list, movie list, new movie
+
+**Today**
+
+- Finishing frontend UI and integrating FE into BE
+
+**Are there any impediments in your way?**
+
+- No
