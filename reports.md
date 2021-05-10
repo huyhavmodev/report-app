@@ -1756,3 +1756,16 @@ Environment: Nodejs and npm
 **Are there any impediments in your way?**
 
 - No
+
+# === DAILY REPORT 05/10 ===
+
+## Vuong Tuan Anh 05/10
+
+**Today**
+
+- Integrating FE into BE
+- Backend tweaks
+
+**Are there any impediments in your way?**
+
+- No
