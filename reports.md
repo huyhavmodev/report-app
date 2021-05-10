@@ -1769,3 +1769,28 @@ Environment: Nodejs and npm
 **Are there any impediments in your way?**
 
 - No
+
+## Le Duy Khanh - 05/10
+
+- Giao diện mặt hàng chi tiết(50%)
+- Giao diện login(30%)
+- Giao diện home khi khách hàng đã đăng nhập(30%)
+- Redux store (10%)
+  - User login data
+  - User cart
+  - List product
+
+**Today**
+
+- Giao diện mặt hàng chi tiết
+- Giao diện login
+- Giao diện home khi khách hàng đã đăng nhập
+- Giao diện giỏ hàng
+- Redux store
+  - User login data
+  - User cart
+  - List product
+
+**Are there any impediments in your way?**
+
+- No
