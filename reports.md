@@ -1794,3 +1794,32 @@ Environment: Nodejs and npm
 **Are there any impediments in your way?**
 
 - No
+
+# === DAILY REPORT 05/11 ===
+
+## Le Duy Khanh - 05/10
+
+- Giao diện mặt hàng chi tiết(100%)
+- Giao diện login(60%)
+- Giao diện home khi khách hàng đã đăng nhập(60%)
+- Redux store (50%)
+  - User login data
+  - User cart
+  - List product
+- Giao diện giỏ hàng (30%)
+
+**Today**
+
+- Giao diện login
+- Giao diện register
+- Giao diện thông tin khách hàng
+- Giao diện home khi khách hàng đã đăng nhập
+- Giao diện giỏ hàng
+- Redux store
+  - User login data
+  - User cart
+  - List product
+
+**Are there any impediments in your way?**
+
+- No
