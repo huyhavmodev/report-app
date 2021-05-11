@@ -1823,3 +1823,17 @@ Environment: Nodejs and npm
 **Are there any impediments in your way?**
 
 - No
+
+## Vuong Tuan Anh - 05/10
+
+- Integrating FE into BE
+- Backend tweaks
+
+**Today**
+
+- Integrating BE for admin pages
+- Bug fixing
+
+**Are there any impediments in your way?**
+
+- No
