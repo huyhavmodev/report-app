@@ -1757,6 +1757,23 @@ Environment: Nodejs and npm
 
 - No
 
+**Yesterday**
+
+- Setting up NextJs ReactJs project
+- Build Layout Component(100 %)
+- Build Input Component (70%)
+- Build Country Table Component (50%)
+
+**Today**
+- Get data by Nextjs
+- Build Input Component
+- Build Country Table Component
+
+**Are there any impediments in your way?**
+
+- No
+
+
 # === DAILY REPORT 05/10 ===
 
 ## Vuong Tuan Anh 05/10
@@ -1790,6 +1807,24 @@ Environment: Nodejs and npm
   - User login data
   - User cart
   - List product
+
+**Are there any impediments in your way?**
+
+- No
+
+## Hoang Nhat Tan 05/10
+
+**Yesterday**
+
+- Get data by Nextjs (80%)
+- Build Input Component (100%)
+- Build Country Table Component (100%)
+
+**Today**
+
+- Sort Countries
+- Filter Countries by Name, Region and Subregion
+- Dymanic Route in Next.js
 
 **Are there any impediments in your way?**
 
@@ -1838,6 +1873,23 @@ Environment: Nodejs and npm
 
 - No
 
+## Hoang Nhat Tan 05/11
+
+**Yesterday**
+
+- Sort and filter Countries by Name, Region and Subregion (60%)
+- Dymanic Route in Next.js (30%)
+
+**Today**
+
+- Sort and filter Countries by Name, Region and Subregion
+- Dymanic Route in Next.js
+- Server Side Rendering
+
+**Are there any impediments in your way?**
+
+- No
+
 # === DAILY REPORT 05/12 ===
 
 ## Vuong Tuan Anh 05/12
@@ -1850,6 +1902,42 @@ Environment: Nodejs and npm
 **Today**
 
 - Finishing admin pages
+
+**Are there any impediments in your way?**
+
+- No
+
+## Hoang Nhat Tan 05/12
+
+**Yesterday**
+
+- Sort and filter Countries by Name, Region and Subregion (100%)
+- Dymanic Route in Next.js (60%)
+- Server Side Rendering
+
+**Today**
+
+- Dymanic Route in Next.js
+- Server Side Rendering
+
+**Are there any impediments in your way?**
+
+- No
+
+# === DAILY REPORT 05/13 ===
+
+## Hoang Nhat Tan 05/13
+
+**Yesterday**
+
+- Dymanic Route in Next.js
+- Server Side Rendering
+
+**Today**
+
+- Dymanic Route in Next.js
+- Server Side Rendering
+- Change filter and search name by using API
 
 **Are there any impediments in your way?**
 
