@@ -1942,3 +1942,18 @@ Environment: Nodejs and npm
 **Are there any impediments in your way?**
 
 - No
+
+## Vuong Tuan Anh 05/12
+
+**Yesterday**
+
+- Finishing admin pages
+
+**Today**
+
+- Finishing admin pages
+- Tweak UI frontend
+
+**Are there any impediments in your way?**
+
+- No
