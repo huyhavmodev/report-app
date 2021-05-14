@@ -1957,3 +1957,23 @@ Environment: Nodejs and npm
 **Are there any impediments in your way?**
 
 - No
+
+# === DAILY REPORT 05/14 ===
+
+## Hoang Nhat Tan 05/14
+
+**Yesterday**
+
+- Dymanic Route in Next.js
+- Server Side Rendering
+- Change filter and search name by using API
+
+**Today**
+
+- Server Side Rendering - getServerSideProps
+- Change filter and search name by using API
+- Fix sorting component
+
+**Are there any impediments in your way?**
+
+- No
