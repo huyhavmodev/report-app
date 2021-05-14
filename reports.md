@@ -1977,3 +1977,19 @@ Environment: Nodejs and npm
 **Are there any impediments in your way?**
 
 - No
+
+## Vuong Tuan Anh 05/14
+
+**Yesterday**
+
+- Finishing admin pages
+- Tweak UI frontend
+
+**Today**
+
+- Google auth & Facebook auth
+- UI polishing
+
+**Are there any impediments in your way?**
+
+- No
