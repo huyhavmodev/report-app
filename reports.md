@@ -1993,3 +1993,22 @@ Environment: Nodejs and npm
 **Are there any impediments in your way?**
 
 - No
+
+# === DAILY REPORT 05/17 ===
+
+## Hoang Nhat Tan 05/17
+
+**Yesterday**
+
+- Server Side Rendering - getServerSideProps
+- Change filter and search name by using API
+- Fix sorting component
+
+**Today**
+
+- Styling pages
+- getServerSideProps and getStaticProps/getStaticPaths
+
+**Are there any impediments in your way?**
+
+- No
