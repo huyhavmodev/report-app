@@ -2012,3 +2012,35 @@ Environment: Nodejs and npm
 **Are there any impediments in your way?**
 
 - No
+
+## Vuong Tuan Anh 05/17
+
+**Yesterday**
+
+- Google auth & Facebook auth
+- UI polishing
+
+**Today**
+
+- Remake search feature
+
+**Are there any impediments in your way?**
+
+- No
+
+# === DAILY REPORT 05/18 ===
+
+## Vuong Tuan Anh 05/18
+
+**Yesterday**
+
+- Remake search feature
+
+**Today**
+
+- Upload image route
+- UI polising
+
+**Are there any impediments in your way?**
+
+- No
