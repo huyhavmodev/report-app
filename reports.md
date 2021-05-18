@@ -2044,3 +2044,18 @@ Environment: Nodejs and npm
 **Are there any impediments in your way?**
 
 - No
+
+## Hoang Nhat Tan 05/17
+
+**Yesterday**
+
+- Styling pages
+- getServerSideProps and getStaticProps/getStaticPaths
+
+**Today**
+- Add pagination
+- Deploy to netlify
+
+**Are there any impediments in your way?**
+
+- No
