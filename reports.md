@@ -2060,7 +2060,54 @@ Environment: Nodejs and npm
 
 - No
 
-# === DAILY REPORT 03/26 ===
+# === DAILY REPORT 19/05 ===
 
 ## Pham Minh Thanh - 19/05 ==
-	TEST GIT
+**Yesterday**
+
+JS Hoisting (100%)
+JS Scope, Closure (100%)
+JS Object, Prototype, inheritance(100%)
+JS Condition statement(100%)
+JS Data type(100%)
+JS Immutable/mutable, Pass by value/reference(100%)
+JS this, apply, call, bind(100%)
+JS Condition statement (100%)
+JS Data type (100%)
+JS Immutable/mutable, Pass by value/reference (100%)
+JS this, apply, call, bind (100%)
+JS setTimeout/ clearTimeout (100%)
+JS setInterval/ clearInterval (100%)
+JS cookie/ localStorage/ sessionStorage (100%)
+HTML DOM (100%)
+HTML BOM (100%)
+JS callback (100%)
+Array (100%)
+Multidimensional Arrays (100%)
+Access and Iterate Through an Array (100%)
+Bubbling and capturing (50%)
+Regular-expressions (50%)
+HTML/CSS test (100%)
+
+**Today**	
+Array
+Linked list
+Queue
+Stack
+Hash table
+Set
+Tree
+Graph
+AJAX and JSON
+promise, async await
+ajax request (Fetch API, Axios)
+ES6: scope, arrow function, template string, destructuring, default parameter, rest, spread,...
+Tìm hiểu git căn bản => tham khảo: Hướng dẫn về Git cho người mới bắt đầu | Backlog
+Hiểu về các server sử dụng git: Bitbucket, Github, Gitlab ...
+Tìm hiểu vắn tắt nội dung về git thông qua file đính kèm git.txt ở dưới
+Làm bài tập về git thông qua file git.practice
+JS test
+
+**Are there any impediments in your way?**
+- No
+
