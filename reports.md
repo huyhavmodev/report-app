@@ -2102,9 +2102,9 @@ Environment: Nodejs and npm
 - promise, async await
 - ajax request (Fetch API, Axios)
 - ES6: scope, arrow function, template string, destructuring, default parameter, rest, spread,...
-- Tìm hiểu git căn bản => tham khảo: Hướng dẫn về Git cho người mới bắt đầu | Backlog
-- Hiểu về các server sử dụng git: Bitbucket, Github, Gitlab ...
-- Tìm hiểu vắn tắt nội dung về git thông qua file đính kèm git.txt ở dưới
+- Tìm hiểu git căn bản
+- Hiểu về các server sử dụng git
+- Tìm hiểu vắn tắt nội dung về git 
 - Làm bài tập về git thông qua file git.practice
 - JS test
 
