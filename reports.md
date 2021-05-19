@@ -2045,7 +2045,7 @@ Environment: Nodejs and npm
 
 - No
 
-## Hoang Nhat Tan 05/17
+## Hoang Nhat Tan 05/18
 
 **Yesterday**
 
@@ -2111,5 +2111,20 @@ Environment: Nodejs and npm
 
 
 **Are there any impediments in your way?**
+- No
+
+## Hoang Nhat Tan 05/19
+
+**Yesterday**
+
+ - Deploy to netlify
+
+**Today**
+
+- Read redux toolkit docs
+- Redux thunk and saga docs
+
+**Are there any impediments in your way?**
+
 - No
 
