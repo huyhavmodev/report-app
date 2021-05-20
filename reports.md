@@ -2128,3 +2128,39 @@ Environment: Nodejs and npm
 
 - No
 
+# Pham Minh Thanh 05/20
+
+- Array (100%)
+- Linked list (100%)
+- Queue (100%)
+- Stack (100%)
+- Hash table (100%)
+- Set (100%)
+- Tree (100%)
+- Graph (100%)
+- AJAX and JSON (1005)
+- promise, async await (100%)
+- ajax request (Fetch API, Axios) (100%)
+- ES6: scope, arrow function, template string, destructuring, default parameter, rest, spread,... (100%)
+- Tìm hiểu git căn bản (100%)
+- Hiểu về các server sử dụng git (50%)
+- Tìm hiểu vắn tắt nội dung về git (50%)
+- Làm bài tập về git thông qua file git.practice (50%)
+- JS test (50%)
+
+**Today**
+
+- Hiểu về các server sử dụng git
+- Tìm hiểu vắn tắt nội dung về git
+- Làm bài tập về git thông qua file git.practice
+- JS test (50%)
+- Environment: Nodejs and npm
+- API and Authentication concept
+- Typescript
+- Web development test
+- Web Development - A Practical Guide
+
+**Are there any impediments in your way?**
+
+- No
+
