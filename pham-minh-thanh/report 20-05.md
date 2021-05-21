@@ -5,7 +5,7 @@
 - JS test (100%)
   https://codesandbox.io/s/js-test-forked-w5tdf
 - Environment: Nodejs and npm
- - NodeJS là một nền tảng được xây dựng trên V8 JavaScript Engine – trình thông dịch thực thi mã JavaScript, giúp xây dựng các ứng dụng web một cách đơn giản và dễ dàng mở rộng.
+ - NodeJS là một nền tảng được xây dựng trên V8 JavaScript Engine – trình thông dịch thực thi mã JavaScript, giúp xây dựng các ứng dụng web một cách đơn giản và dễ dàng mở rộng. Nó là môi trường chạy code js ở server.
  - npm là Node Package Manager đi kèm và hỗ trợ từng bản phát triển của Node. Trong nhiều năm, Node được các lập trình viên JavaScript sử dụng rộng rãi để chia sẻ công cụ, cài đặt nhiều mô-đun khác nhau và quản lý dependency. Hãy cùng tìm hiểu sâu hơn về npm là gì và cách thức hoạt động của nó. Nó rất quan trọng với những ai làm việc với Node.js.
  - Event Loop
   + Call stack
