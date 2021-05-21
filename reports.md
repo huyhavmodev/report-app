@@ -2130,6 +2130,7 @@ Environment: Nodejs and npm
 
 # Pham Minh Thanh 05/20
 
+**Yesterday**
 - Array (100%)
 - Linked list (100%)
 - Queue (100%)
@@ -2164,3 +2165,27 @@ Environment: Nodejs and npm
 
 - No
 
+# Pham Minh Thanh 05/21
+
+**Yesterday**
+
+- Hiểu về các server sử dụng git (50%)
+- Tìm hiểu vắn tắt nội dung về git (50%)
+- Làm bài tập về git thông qua file git.practice (30%)
+- JS test (100%)
+- Environment: Nodejs and npm (100%)
+- API and Authentication concept (70%)
+- Typescript (30%)
+- Web development test
+- Web Development - A Practical Guide
+
+**Today**
+
+- Typescript
+- Web development test
+- Web Development - A Practical Guide
+
+
+**Are there any impediments in your way?**
+
+- No
