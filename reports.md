@@ -2128,6 +2128,8 @@ Environment: Nodejs and npm
 
 - No
 
+# === DAILY REPORT 20/05 ===
+
 # Pham Minh Thanh 05/20
 
 **Yesterday**
@@ -2165,6 +2167,23 @@ Environment: Nodejs and npm
 
 - No
 
+## Hoang Nhat Tan 05/20
+
+**Yesterday**
+
+- Read redux toolkit docs
+- Redux thunk and saga docs
+
+**Today**
+- Hiểu về các server sử dụng git
+- Làm bài tập về git
+
+**Are there any impediments in your way?**
+
+- No
+
+# === DAILY REPORT 21/05 ===
+
 # Pham Minh Thanh 05/21
 
 **Yesterday**
@@ -2189,3 +2208,20 @@ Environment: Nodejs and npm
 **Are there any impediments in your way?**
 
 - No
+
+## Hoang Nhat Tan 05/21
+
+**Yesterday**
+
+- Hiểu về các server sử dụng git
+- Làm bài tập về git
+
+**Today**
+
+- Design Architecture for project
+- Design Class Diagram, sequence diagram, 
+
+**Are there any impediments in your way?**
+
+- No
+
