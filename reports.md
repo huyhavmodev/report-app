@@ -2225,3 +2225,29 @@ Environment: Nodejs and npm
 
 - No
 
+# === DAILY REPORT 24/05 ===
+
+# Pham Minh Thanh 05/21
+
+**Yesterday**
+
+- Typescript (80%)
+- Web development test (100%)
+- Web Development - A Practical Guide (100%)
+
+**Today**
+
+- NodeJS + Datbase
+- Data analyst
+- RDBMS - MySQL/PostgreSQL
+- NoSQL - MongoDB
+- ExpressJS
+- ORM - ODM concept
+- Project CMS
+- Refactor project structure
+
+
+**Are there any impediments in your way?**
+
+- No
+
