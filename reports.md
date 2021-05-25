@@ -2227,7 +2227,7 @@ Environment: Nodejs and npm
 
 # === DAILY REPORT 24/05 ===
 
-# Pham Minh Thanh 05/21
+# Pham Minh Thanh 05/24
 
 **Yesterday**
 
@@ -2250,4 +2250,36 @@ Environment: Nodejs and npm
 **Are there any impediments in your way?**
 
 - No
+
+# === DAILY REPORT 05/25 ===
+
+# Pham Minh Thanh 05/25
+
+**Yesterday**
+
+- NodeJS + Datbase (100%)
+- Data analyst (100%)
+- RDBMS - MySQL/PostgreSQL
+- NoSQL - MongoDB
+- ExpressJS
+- ORM - ODM concept
+- Project CMS
+- Refactor project structure
+
+
+**Today**
+
+- RDBMS - MySQL/PostgreSQL
+- NoSQL - MongoDB
+- ExpressJS
+- ORM - ODM concept
+- Project CMS
+- Refactor project structure
+
+**Are there any impediments in your way?**
+
+- No
+
+
+
 
