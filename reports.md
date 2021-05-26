@@ -2281,5 +2281,25 @@ Environment: Nodejs and npm
 - No
 
 
+# === DAILY REPORT 05/26 ===
 
+# Pham Minh Thanh 05/26
+
+**Yesterday**
+
+- RDBMS - MySQL/PostgreSQL 
+- NoSQL - MongoDB
+- ExpressJS
+- ORM - ODM concept
+- Project CMS (30%)
+- Refactor project structure
+
+**Today**
+
+- Project CMS
+- Refactor project structure
+
+**Are there any impediments in your way?**
+
+- No
 
