@@ -2303,3 +2303,23 @@ Environment: Nodejs and npm
 
 - No
 
+# === DAILY REPORT 05/27 ===
+
+# Pham Minh Thanh 05/27
+
+**Yesterday**
+
+- Project CMS (50%)
+  + Authen/Author (100%)
+  + Migrate JS to TS (50%)
+  + CRUD Table User(DONE)
+- Refactor project structure (100%)
+
+**Today**
+
+- Project CMS
+- Refactor project structure
+
+**Are there any impediments in your way?**
+
+- No
