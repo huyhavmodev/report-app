@@ -2323,3 +2323,25 @@ Environment: Nodejs and npm
 **Are there any impediments in your way?**
 
 - No
+
+# === DAILY REPORT 05/28 ===
+
+# Pham Minh Thanh 05/28
+
+**Yesterday**
+
+- Project CMS (100%)
+  + Authen/Author (100%)
+  + Migrate JS to TS (50%)
+  + CRUD Table User(DONE)
+- Refactor project structure (100%)
+
+**Today**
+
+- Project CMS
+- Refactor project structure
+- Write Document
+
+**Are there any impediments in your way?**
+
+- No
