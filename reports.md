@@ -2345,3 +2345,26 @@ Environment: Nodejs and npm
 **Are there any impediments in your way?**
 
 - No
+
+
+# === DAILY REPORT 05/31 ===
+
+# Pham Minh Thanh 05/31
+
+**Yesterday**
+
+- Project CMS (100%)
+
+**Today**
+
+- Prepare for Interview:
+  + rabbit MQ 
+  + Message quues
+  + database: mongo  mysql
+  + Nodejs microservices
+  + nodeJS
+  + Mongo DB
+
+**Are there any impediments in your way?**
+
+- No
