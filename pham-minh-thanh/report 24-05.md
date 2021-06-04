@@ -68,8 +68,7 @@ Chuẩn 1NF
 
 Chuẩn 2NF
 - Nó phải là dạng chuẩn 1
-- Các trường thuộc tính không phải là khóa chính, phải phụ thuộc hoàn toàn vào khóa chính. Không được
-phep phụ thuộc vào 1 phân của khóa chính
+- Các trường thuộc tính không phải là khóa chính, phải phụ thuộc hoàn toàn vào khóa chính. Không được phep phụ thuộc vào 1 phân của khóa chính
 
 Chuẩn 3NF
 - Phải là quan hệ đạt dạng chuẩn 2

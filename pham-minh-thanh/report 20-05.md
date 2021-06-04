@@ -19,7 +19,7 @@
   - GET: LẤY DATA VỀ
   - POST: TẠO DATA
   - PUT: SỬA ĐỔI DATA
-  - PATH: SỬA ĐỔI DATA
+  - PATCH: SỬA ĐỔI DATA
   - DELETE: XÓA DATA
   CORS issue - Cross-Origin Resource Sharing
   - Origin = Protocol(http/https) + Domain + Port
@@ -37,7 +37,7 @@
   - Diễn ra sau khi authentication thành công
   - Sử dụng JWT để thực hiên permissions
   JSON web token (JWT)
-  - Phân biệt Token(staleful) và Cookie(staleful):
+  - Phân biệt Token(staleless) và Cookie(staleful):
     Cookie:
     + Stateful server
     + Hard to achieve
@@ -64,8 +64,6 @@
 
   - Resful là chuẩn viết API dựa vào HTTP request. Các methods như : get, post, put, patch, delete
   - GraphQL là chuẩn viết API kiểu mới.
-
-
 
   Postman
   - Tool để test API

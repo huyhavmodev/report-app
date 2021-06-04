@@ -2428,3 +2428,44 @@ Environment: Nodejs and npm
 **Are there any impediments in your way?**
 
 - No
+
+# === DAILY REPORT 06/3 ===
+
+# Pham Minh Thanh 06/3
+
+**Yesterday**
+
+-- Review knowledge From day 1
+- Prepare for Interview:
+  + database: mongo  mysql
+  + Nodejs microservices
+  + nodeJS
+  + Mongo DB
+
+
+**Today**
+- NEST JS
+
+**Are there any impediments in your way?**
+
+- No
+
+# === DAILY REPORT 06/4 ===
+
+# Pham Minh Thanh 06/4
+
+**Yesterday**
+
+Learn NestJS ( 60%)
++ learn init one project
++ Learn make CRUD simple with NestJS
++ Learn architecture of 1 project
+
+
+**Today**
+Learn Nest JS
++ Migrate code project CMS Nodejs from express to NestJS.
+
+**Are there any impediments in your way?**
+
+- No

@@ -37,7 +37,7 @@ vì vòng lặp là 3 nên sẽ tạo ra 3 closure
 
 Giờ xem xét cái lexical enviroment nào, t biết rằng var i tuân thủ nguyên tắc function scope nó sẽ được 
 tạo mới trong mỗi function còn ngoài function thì var i nhiều lần cũng chỉ là biến i đó thôi. 
-Vậy chúng nó sài chung lexical enviroment (Giống bài mô phỏng class phần 3).
+Vậy chúng nó sài chung lexical enviroment.
 
 Mà để hàm thực thi function log i ra cần tới 1s sau, vậy theo như ví dụ trên, 
 vòng lặp for sẽ được chạy xong trước khi thực thi function log i sớm nhất được thực thi vậy 
