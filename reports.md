@@ -2493,3 +2493,22 @@ Learn JS
 **Are there any impediments in your way?**
 
 - No
+
+# === DAILY REPORT 07/12 ===
+
+# Nguyen Huy An 
+
+**Yesterday**
+
+No
+
+
+**Today**
+Learn JS
++ AJAX and JSON
++ promise, async await
++ ES6: scope, arrow function, template string, destructuring, default parameter, rest, spread,...
+
+**Are there any impediments in your way?**
+
+- No
