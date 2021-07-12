@@ -2468,4 +2468,48 @@ Learn Nest JS
 
 **Are there any impediments in your way?**
 
+
+- No
+
+# === DAILY REPORT 07/7 ===
+
+# Nguyen Huy An 07/7
+
+**Yesterday**
+
+Learn JS ( 60%)
++ Array
++ Multidimensional Arrays
++ Access and Iterate Through an Array
++ Bubbling and capturing
++ Regular-expressions
+
+
+**Today**
+Learn JS
++ Access and Iterate Through an Array
++ Data Structure
++ Practice
+
+**Are there any impediments in your way?**
+
+- No
+
+# === DAILY REPORT 07/12 ===
+
+# Nguyen Huy An 
+
+**Yesterday**
+
+No
+
+
+**Today**
+Learn JS
++ AJAX and JSON
++ promise, async await
++ ES6: scope, arrow function, template string, destructuring, default parameter, rest, spread,...
+
+**Are there any impediments in your way?**
+
 - No
