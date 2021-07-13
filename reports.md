@@ -2513,3 +2513,25 @@ Learn JS
 **Are there any impediments in your way?**
 
 - No
+
+# === DAILY REPORT 07/13 ===
+
+# Nguyen Huy An 
+
+**Yesterday**
+
+Learn JS (100%)
++ AJAX and JSON
++ promise, async await
++ ES6: scope, arrow function, template string, destructuring, default parameter, rest, spread,...
+
+**Today**
+Learn JS
++ Learning about git
++ Practice about git
++ ajax request (Fetch API, Axios)
++ Practice on freecodecamp
+
+**Are there any impediments in your way?**
+
+- No
