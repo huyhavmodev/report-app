@@ -2535,3 +2535,25 @@ Learn JS
 **Are there any impediments in your way?**
 
 - No
+
+# === DAILY REPORT 07/13 ===
+
+# Nguyen Huy An 
+
+**Yesterday**
+
+Learn JS
++ gitignore
++ git stash
++ git rebase
+
+**Today**
+Learn JS
++ What is nodejs
++ What is npm
++ What is LTS
++ Event loop
+
+**Are there any impediments in your way?**
+
+- No
