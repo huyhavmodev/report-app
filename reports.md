@@ -2536,7 +2536,7 @@ Learn JS
 
 - No
 
-# === DAILY REPORT 07/13 ===
+# === DAILY REPORT 07/14 ===
 
 # Nguyen Huy An 
 
@@ -2553,6 +2553,28 @@ Learn JS
 + What is npm
 + What is LTS
 + Event loop
+
+**Are there any impediments in your way?**
+
+- No
+
+# === DAILY REPORT 07/15 ===
+
+# Nguyen Huy An 
+
+**Yesterday**
+
+Learn JS
++ What is nodejs
++ What is npm
++ What is LTS
++ Event loop
+
+**Today**
+Learn API
++ What is API
++ HTTP request
++ CORS issue
 
 **Are there any impediments in your way?**
 
