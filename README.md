@@ -1,11 +1,14 @@
 # report-app
 
-## Tham khảo git policy:
-https://github.com/vmodev11/vmo11/blob/master/GIT_POLICY.md
+## Nội dung phải đọc: `git policy`
+https://github.com/vmodev11/vmo11/blob/master/documents/GIT_POLICY.md
 
-**Nếu thành viên nào làm mất report (mất code) của các thành viên còn lại thì phải có trách nhiệm báo lại và đi sửa lại cho người bị mất code.**
+## Nội dung phải đọc: `coding conventions`
+https://github.com/vmodev11/vmo11/blob/master/documents/JAVASCRIPT_STYLE_GUIDE.md
 
-## Hướng dẫn:
+## NẾU THÀNH VIÊN NÀO LÀM MẤT REPORT (MẤT CODE) CỦA CÁC THÀNH VIÊN CÒN LẠI THÌ PHẢI CÓ TRÁCH NHIỆM BÁO LẠI VÀ ĐI SỬA LẠI CHO NGƯỜI BỊ MẤT CODE. ĐIỂM ĐÁNH GIÁ CŨNG SẼ DỰA TRÊN YẾU TỐ NÀY
+
+## Hướng dẫn làm việc với `REPORT-APP`:
 - Clone project và tạo branch của mình theo rule được mô tả trong git policy ở trên
 - Yêu cầu cấu hình và sử dụng SSH
 - File `reports.md` là file report chung đầu ngày của tất cả mọi người
