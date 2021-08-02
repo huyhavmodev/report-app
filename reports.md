@@ -74,7 +74,7 @@
 
 **Yesterday**
 
-- None
+- Learn how to use git
 
 **Today**
 
