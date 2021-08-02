@@ -1,17 +1,19 @@
-#Hoàng Văn Tùng Report Day 02/08
-##Day 1 + 2
+# === DAILY REPORT 08/02 ===
 
+## Hoàng Văn Tung 08/02
 
-
-1. Hôm Qua.
+**Yesterday**
 * Hoàn thiện được bài test HTML/CSS, Js , React test.
 * Hiểu được những vấn đề phát sinh khi hiểu sai đề bài (Khi làm bài test JS)
 * Tìm hiểu thêm được setState() trong Reactjs.
 
-2. DỰ ĐịNH TÌM HIỂU.
+**Today**
+
 * Hoisting
 * Scope và Closure
 * Object, Prototype & Inheritance
 * Condition statement (if...else, conditional (ternary) operator)
 
--none-
+**Are there any impediments in your way?**
+
+- Không có
