@@ -84,3 +84,19 @@
 **Are there any impediments in your way?**
 
 - Git
+
+## Lưu Quang Sơn 08/02
+
+**Yesterday**
+* Tìm hiểu về HTML Semantic, CSS BEM.
+* Tìm hiểu về JS và Reactjs.
+
+**Today**
+
+* Hoisting
+* Scope và Closure
+* Object, Prototype & Inheritance
+* Condition statement (if...else, conditional (ternary) operator)
+
+**Are there any impediments in your way?**
+- Git
