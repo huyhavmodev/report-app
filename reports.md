@@ -50,3 +50,19 @@
 
 - Không có
 
+## Cao Đức Anh 08/02
+
+**Yesterday**
+* Tìm hiểu về HTML Semantic, CSS BEM
+
+**Today**
+
+* Hoisting
+* Scope và Closure
+* Object, Prototype & Inheritance
+* Condition statement (if...else, conditional (ternary) operator)
+
+**Are there any impediments in your way?**
+
+- Không có
+
