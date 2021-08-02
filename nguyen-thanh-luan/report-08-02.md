@@ -81,4 +81,4 @@
 ```
 
 **Object, Prototype & Inheritance**
-        - Object: là tập hợp các thuộc tính được liên kết với nhau bằng tên và giá trị.
+        - Object: là tập hợp các thuộc tính được liên kết với nhau bằng tên và giá trị........
