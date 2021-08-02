@@ -89,7 +89,7 @@
 
 **Yesterday**
 * Tìm hiểu về HTML Semantic, CSS BEM.
-* Tìm hiểu về JS và Reactjs
+* Tìm hiểu về JS và Reactjs.
 
 **Today**
 
@@ -99,5 +99,4 @@
 * Condition statement (if...else, conditional (ternary) operator)
 
 **Are there any impediments in your way?**
-
 - Git
