@@ -68,8 +68,6 @@
 
 - Không có
 
-
-
 ## NGUYỄN THÀNH LUÂN - 08/02
 
 **Yesterday**
@@ -107,7 +105,7 @@
 
 - Git
 
-## Tran Dai Minh 02-08
+## Tran Dai Minh 08-02
 
 **Yesterday**
 
@@ -153,24 +151,23 @@
 
 **Yesterday**
 
-* Hoisting (60%)
-* Scope và Closure (60%)
-* Object, Prototype & Inheritance
-* Condition statement (if...else, conditional (ternary) operator)
-
+- Hoisting (60%)
+- Scope và Closure (60%)
+- Object, Prototype & Inheritance
+- Condition statement (if...else, conditional (ternary) operator)
 
 **Today**
 
-* Hoisting (60%)
-* Scope và Closure (60%)
-* Object, Prototype & Inheritance
-* Condition statement (if...else, conditional (ternary) operator)
-* Data type: String, Number, Boolean, Null, Undefined, Symbol, Date, Object, Array
-* Immutable/Mutable, Pass by Value/Reference
+- Hoisting (60%)
+- Scope và Closure (60%)
+- Object, Prototype & Inheritance
+- Condition statement (if...else, conditional (ternary) operator)
+- Data type: String, Number, Boolean, Null, Undefined, Symbol, Date, Object, Array
+- Immutable/Mutable, Pass by Value/Reference
 
 **Are there any impediments in your way?**
 
-* No
+- No
 
 ## Cao Đức Anh 08/03
 
@@ -209,3 +206,26 @@
 - Immutable/Mutable, Pass by Value/Reference
 
 **Are there any impediments in your way?**
+
+## TRAN DAI MINH - 08/03
+
+**Yesterday**
+
+- Hoisting (100%)
+- Scope và Closure
+- Object, Prototype & Inheritance (100%)
+- Condition statement (if...else, conditional (ternary) operator) (100%)
+- Data type: String, Number, Boolean, Null, Undefined, Symbol, Date, Object, Array (100%)
+- Immutable/Mutable, Pass by Value/Reference
+
+**Today**
+
+- Scope và Closure
+- Immutable/Mutable, Pass by Value/Reference
+- setInterval/clearInterval
+- this, apply, call, bind
+- setTimeout/clearTimeout
+
+**Are there any impediments in your way?**
+
+- No
