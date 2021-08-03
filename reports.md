@@ -148,3 +148,26 @@
 **Are there any impediments in your way?**
 
 - No
+
+## Hoàng Văn Tùng - 08/03
+
+**Yesterday**
+
+* Hoisting (60%)
+* Scope và Closure (60%)
+* Object, Prototype & Inheritance
+* Condition statement (if...else, conditional (ternary) operator)
+
+
+**Today**
+
+* Hoisting (60%)
+* Scope và Closure (60%)
+* Object, Prototype & Inheritance
+* Condition statement (if...else, conditional (ternary) operator)
+* Data type: String, Number, Boolean, Null, Undefined, Symbol, Date, Object, Array
+* Immutable/Mutable, Pass by Value/Reference
+
+**Are there any impediments in your way?**
+
+* No
