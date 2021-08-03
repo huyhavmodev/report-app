@@ -105,7 +105,7 @@
 
 - Git
 
-## Tran Dai Minh 02-08
+## Tran Dai Minh 08-02
 
 **Yesterday**
 
