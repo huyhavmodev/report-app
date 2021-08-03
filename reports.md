@@ -125,7 +125,7 @@
 
 - Git
 
-# === DAILY REPORT 08/02 ===
+# === DAILY REPORT 08/03 ===
 
 ## NGUYỄN THÀNH LUÂN - 08/03
 
