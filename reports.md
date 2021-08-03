@@ -149,20 +149,25 @@
 
 - No
 
-## Cao Đức Anh 08/03
+## Hoàng Văn Tùng - 08/03
 
 **Yesterday**
 
-- Hoisting
-- Scope và Closure
-- Object, Prototype & Inheritance
-- Condition statement (if...else, conditional (ternary) operator)
+* Hoisting (60%)
+* Scope và Closure (60%)
+* Object, Prototype & Inheritance
+* Condition statement (if...else, conditional (ternary) operator)
+
 
 **Today**
 
-- Data type: String, Number, Boolean, Null, Undefined, Symbol, Date, Object, Array
-- Immutable/Mutable, Pass by Value/Reference
+* Hoisting (60%)
+* Scope và Closure (60%)
+* Object, Prototype & Inheritance
+* Condition statement (if...else, conditional (ternary) operator)
+* Data type: String, Number, Boolean, Null, Undefined, Symbol, Date, Object, Array
+* Immutable/Mutable, Pass by Value/Reference
 
 **Are there any impediments in your way?**
 
-- Không có
+* No
