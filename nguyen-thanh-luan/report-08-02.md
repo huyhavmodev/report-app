@@ -1,5 +1,5 @@
 # NGUYỄN THÀNH LUÂN - Report 08/02:
-# Day 1 + 2:
+# Day 1.
 1. DỰ ĐịNH TÌM HIỂU.
 * Hoisting
 * Scope và Closure
