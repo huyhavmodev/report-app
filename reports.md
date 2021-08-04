@@ -283,3 +283,30 @@
 **Are there any impediments in your way?**
 
 - No
+
+
+## Cao Duc Anh - 08/04
+
+**Yesterday**
+
+- Hoisting (100%)
+- Scope và Closure (100%)
+- Object, Prototype & Inheritance (100%)
+- Condition statement (if...else, conditional (ternary) operator) (100%)
+- Data type: String, Number, Boolean, Null, Undefined, Symbol, Date, Object, Array (100%)
+- Immutable/Mutable, Pass by Value/Reference (80%)
+
+**Today**
+- Immutable/Mutable, Pass by Value/Reference
+- This, apply, call, bind
+- SetTimeout/clearTimeout
+- SetInterval/clearInterval
+- RequestAnimationFrame/cancelAnimationFrame
+- Cookie/localStorage/sessionStorage
+- DOM - Document Object Model
+- BOM - Browser Object Model
+- Callback
+
+**Are there any impediments in your way?**
+
+- No
