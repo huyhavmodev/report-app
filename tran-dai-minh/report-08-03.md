@@ -36,15 +36,13 @@ function outerFunction () {
 outerFunction()(); // expected output: I see the outer variable!
 ```
 
-- Immutable/Mutable:
-
-  - **Immutable** là các đối tượng có trạng thái không thể thay đổi sau khi đối tượng được tạo (các giá trị nguyên thuỷ: string, number, boolean).
+- **Immutable** là các đối tượng có trạng thái không thể thay đổi sau khi đối tượng được tạo (các giá trị nguyên thuỷ: string, number, boolean).
 
 ```
 var a = 10;
 ```
 
-  - **Mutable** là một loại biến có thể thay đổi được.
+- **Mutable** là một loại biến có thể thay đổi được.
 
 ```
 let b = {name: 'Minh', age: 20};
