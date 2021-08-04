@@ -322,13 +322,14 @@
 
 **Today**
 
-- requestAnimationFrame/cancelAnimationFrame (tham khảo)
-- cookie/localStorage/sessionStorage
+- RequestAnimationFrame/cancelAnimationFrame (tham khảo)
+- Cookie/localStorage/sessionStorage
 - DOM - Document Object Model
 - BOM - Browser Object Model
 - Callback
 - Array
 - Multidimensional Arrays
+- Access and Iterate Through an Array
 
 **Are there any impediments in your way?**
 
