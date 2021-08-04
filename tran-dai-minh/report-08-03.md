@@ -1,6 +1,80 @@
 ## TRAN DAI MINH 08-03
 
-## TOPIC: this, apply, call, bind, setTimeout/clearTimeout, setInterval/clearInterval.
+## TOPIC: Scope và Closure, Immutable/Mutable, Pass by Value/Reference, this, apply, call, bind, setTimeout/clearTimeout, setInterval/clearInterval.
+
+- Scope: có 2 loại scope là: global scope và local scope.
+
+  - **Global Scope** nếu 1 biến được khai báo ở ngoài tất cả các hàm thì được coi là **global scope** (phạm vi toàn cục).
+
+```
+var name = 'Minh'
+```
+
+- **Local scope** là những biến chỉ sử dụng được trong 1 phần củ thể thì được coi là **local scope**.
+
+```
+var name = 'hoang';
+function run(){
+  var name = 'Minh';
+  console.log(name);
+}
+run(); // expected output: Minh.
+console.log(name); // expected output: hoang.
+```
+
+- Closure: khi nào tạo một **function** trong một **function** khác, bạn đã tạo một **Closure**.
+
+```
+function outerFunction () {
+  const outer = "I see the outer variable!";
+
+  return function innerFunction() {
+    console.log(outer);
+  }
+}
+
+outerFunction()(); // expected output: I see the outer variable!
+```
+
+- Immutable/Mutable:
+
+  - **Immutable** là các đối tượng có trạng thái không thể thay đổi sau khi đối tượng được tạo (các giá trị nguyên thuỷ: string, number, boolean).
+
+```
+var a = 10;
+```
+
+- **Mutable** là một loại biến có thể thay đổi được.
+
+```
+let b = {name: 'Minh', age: 20};
+b.name = 'hoa'; // thay doi doi tương object b.
+```
+
+- Pass by Value/Reference:
+
+  - Khi bạn truyền một biến trỏ đến một biến nguyên thủy chẳng hạn như 'hi', giá trị sẽ được sao chép vào một biến cục bộ mới bên trong hàm.
+
+```
+let name = 'Minh';
+function changeName(name) {
+  name = 'Minh dep trai';
+}
+console.log(name); // expected output: 'Minh'
+```
+
+- Khi bạn truyền một biến trỏ đến một đối tượng, tham chiếu đến đối tượng sẽ được chuyển vào hàm để một biến cục bộ mới trỏ đến cùng một đối tượng.
+
+```
+let actress = {
+  name: 'Minh'
+};
+function changeActress(act) {
+  act.city = 'Arizona';
+}
+changeActress(actress);
+console.log(actress); // expected output: { name: 'Minh', city: 'Arizona' }
+```
 
 - This: từ khoá **this** trong Javascript đề cập đến đối tượng mà ó thuộc về.
 
