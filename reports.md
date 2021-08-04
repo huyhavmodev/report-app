@@ -256,7 +256,6 @@
 
 - No
 
-
 ## Hoang Van Tung - 08/04
 
 **Yesterday**
@@ -284,7 +283,6 @@
 
 - No
 
-
 ## Cao Duc Anh - 08/04
 
 **Yesterday**
@@ -297,6 +295,7 @@
 - Immutable/Mutable, Pass by Value/Reference (80%)
 
 **Today**
+
 - Immutable/Mutable, Pass by Value/Reference
 - This, apply, call, bind
 - SetTimeout/clearTimeout
@@ -306,6 +305,31 @@
 - DOM - Document Object Model
 - BOM - Browser Object Model
 - Callback
+
+**Are there any impediments in your way?**
+
+- No
+
+## TRAN DAI MINH - 08/04
+
+**Yesterday**
+
+- Scope và Closure (100%)
+- Immutable/Mutable, Pass by Value/Reference (100%)
+- setInterval/clearInterval (100%)
+- this, apply, call, bind (100%)
+- setTimeout/clearTimeout (100%)
+
+**Today**
+
+- RequestAnimationFrame/cancelAnimationFrame (tham khảo)
+- Cookie/localStorage/sessionStorage
+- DOM - Document Object Model
+- BOM - Browser Object Model
+- Callback
+- Array
+- Multidimensional Arrays
+- Access and Iterate Through an Array
 
 **Are there any impediments in your way?**
 
