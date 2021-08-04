@@ -106,7 +106,7 @@ var newFunction = fun.bind(thisArg[, arg1[, arg2[, ...]]])
     sessionStorage.length;
     // xóa 1 item localStorage
     sessionStorage.removeItem('name');
-    // xóa tất cả item trong sessionStorage
+    // xóa tất cả item trong sesssionStorage
     sessionStorage.clear();
 } else {
     alert('Trình duyệt của bạn không hỗ trợ!');
