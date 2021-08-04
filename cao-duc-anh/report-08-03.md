@@ -35,3 +35,17 @@ scope trên.
     }
 //Result: 6
 ```
+    Biến được khai báo mà không có keywords(var, let, const) sẽ mặc định là global, kể cả nằm trong function
+    Biến local có vòng đời ngắn, nó được tạo ra khi function được thực thi và bị xoá khi function hoàn thành. Biến Global thì tồn tại cho đến khi trang bị đóng(chuyển sang trang khác hoặc đóng window).
+
+    Closure là nếu một function con được khai báo trong function cha, thì function con đó có thể truy cập vào được các biến thuộc về function cha.
+```js
+	var sumUp = (()=> {
+		var x = 0;
+		return function() {
+			x += 1;
+			return x;
+		}
+	});
+```
+
