@@ -44,7 +44,7 @@ outerFunction()(); // expected output: I see the outer variable!
 var a = 10;
 ```
 
-- **Mutable** là một loại biến có thể thay đổi được.
+  - **Mutable** là một loại biến có thể thay đổi được.
 
 ```
 let b = {name: 'Minh', age: 20};
