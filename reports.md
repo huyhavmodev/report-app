@@ -430,6 +430,7 @@
 - BOM - Browser Object Model
 - Bubbling and capturing
 - Regular-expressions
-  **Are there any impediments in your way?**
+
+**Are there any impediments in your way?**
 
 - No
