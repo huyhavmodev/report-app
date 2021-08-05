@@ -456,3 +456,26 @@
 **Are there any impediments in your way?**
 
 - No
+
+## LƯU QUANG SƠN - 08/05
+
+**Yesterday**
+
+- this, apply, call, bind (100%)
+- setTimeout/clearTimeout (100%)
+- setInterval/clearInterval (80%)
+- requestAnimationFrame/cancelAnimationFrame (tham khảo)
+- cookie/localStorage/sessionStorage (100%)
+- DOM - Document Object Model (0%)
+- BOM - Browser Object Model (0%)
+
+**Today**
+- DOM - Document Object Model (0%)
+- BOM - Browser Object Model (0%)
+- Callback
+- Array
+
+
+**Are there any impediments in your way?**
+
+- No
