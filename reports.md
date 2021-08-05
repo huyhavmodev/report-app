@@ -336,6 +336,7 @@
 - No
 
 ## LUU QUANG SƠN - 08/04
+
 **Yesterday**
 
 - Hoisting (100%)
@@ -344,7 +345,6 @@
 - Condition statement (if...else, conditional (ternary) operator) (100%)
 - Data type: String, Number, Boolean, Null, Undefined, Symbol, Date, Object, Array (100%)
 - Immutable/Mutable, Pass by Value/Reference (50%)
-
 
 **Today**
 
@@ -386,11 +386,9 @@
 
 - No
 
-
 ## Hoang Van Tung - 08/05
 
 **Yesterday**
-
 
 - This, apply, call, bind (100%)
 - SetTimeout/clearTimeout (100%)
@@ -408,5 +406,30 @@
 - Callback
 
 **Are there any impediments in your way?**
+
+- No
+
+## TRAN DAI MINH - 08/05
+
+**Yesterday**
+
+- RequestAnimationFrame/cancelAnimationFrame (tham khảo)
+- Cookie/localStorage/sessionStorage
+- DOM - Document Object Model
+- BOM - Browser Object Model
+- Callback (100%)
+- Array (100%)
+- Multidimensional Arrays (100%)
+- Access and Iterate Through an Array (100%)
+
+**Today**
+
+- RequestAnimationFrame/cancelAnimationFrame (tham khảo)
+- Cookie/localStorage/sessionStorage
+- DOM - Document Object Model
+- BOM - Browser Object Model
+- Bubbling and capturing
+- Regular-expressions
+  **Are there any impediments in your way?**
 
 - No
