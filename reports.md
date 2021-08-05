@@ -434,3 +434,25 @@
 **Are there any impediments in your way?**
 
 - No
+
+## Cao Duc Anh - 08/05
+
+**Yesterday**
+
+- This, apply, call, bind (100%)
+- SetTimeout/clearTimeout (30%)
+- SetInterval/clearInterval (20%)
+
+**Today**
+- RequestAnimationFrame/cancelAnimationFrame
+- Cookie/localStorage/sessionStorage
+- DOM - Document Object Model
+- Callback
+- Cookie/localStorage/sessionStorage
+- DOM - Document Object Model
+- BOM - Browser Object Model
+- Callback
+
+**Are there any impediments in your way?**
+
+- No
