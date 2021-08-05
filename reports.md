@@ -358,3 +358,30 @@
 - Callback
 
 **Are there any impediments in your way?**
+
+# === DAILY REPORT 08/05 ===
+
+## NGUYỄN THÀNH LUÂN - 08/05
+
+**Yesterday**
+
+- this, apply, call, bind (100%)
+- setTimeout/clearTimeout (100%)
+- setInterval/clearInterval (100%)
+- requestAnimationFrame/cancelAnimationFrame (tham khảo)
+- cookie/localStorage/sessionStorage (100%)
+- DOM - Document Object Model (100%)
+- BOM - Browser Object Model (100%)
+
+**Today**
+
+- Callback
+- Array
+- Multidimensional Arrays
+- Access and Iterate Through an Array
+- Bubbling and capturing
+- Regular-expressions
+
+**Are there any impediments in your way?**
+
+- No
