@@ -530,7 +530,7 @@
 
 - No
 
-## TRAN DAI MINH - 08/05
+## TRAN DAI MINH - 08/06
 
 **Yesterday**
 
