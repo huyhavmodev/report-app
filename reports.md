@@ -501,3 +501,28 @@
 **Are there any impediments in your way?**
 
 - No
+
+
+## Cao Duc Anh - 08/06
+
+**Yesterday**
+
+- This, apply, call, bind (100%)
+- SetTimeout/clearTimeout (100%)
+- SetInterval/clearInterval (100%)
+- Cookie/localStorage/sessionStorage (100%)
+- DOM - Document Object Model (100%)
+- BOM - Browser Object Model (100%)
+- Callback (100%)
+
+**Today**
+- RequestAnimationFrame/cancelAnimationFrame
+- Array
+- Multidimensional Arrays
+- Access and Iterate Through an Array
+- Bubbling and capturing
+- Regular-expressions
+
+**Are there any impediments in your way?**
+
+- No
