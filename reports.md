@@ -456,3 +456,73 @@
 **Are there any impediments in your way?**
 
 - No
+
+## LƯU QUANG SƠN - 08/05
+
+**Yesterday**
+
+- this, apply, call, bind (100%)
+- setTimeout/clearTimeout (100%)
+- setInterval/clearInterval (80%)
+- requestAnimationFrame/cancelAnimationFrame (tham khảo)
+- cookie/localStorage/sessionStorage (100%)
+- DOM - Document Object Model (0%)
+- BOM - Browser Object Model (0%)
+
+**Today**
+- DOM - Document Object Model (0%)
+- BOM - Browser Object Model (0%)
+- Callback
+- Array
+
+
+**Are there any impediments in your way?**
+
+- No
+# === DAILY REPORT 08/06 ===
+## NGUYỄN THÀNH LUÂN - 08/06
+
+**Yesterday**
+
+- Callback (100%)
+- Array (100%)
+- Multidimensional Arrays (100%)
+- Access and Iterate Through an Array (90%)
+- Bubbling and capturing
+- Regular-expressions
+
+**Today**
+
+- Access and Iterate Through an Array (90%)
+- Bubbling and capturing
+- Regular-expressions
+- Tìm và làm thêm các bài tập về các kiến thức đã tìm hiểu.
+
+**Are there any impediments in your way?**
+
+- No
+
+
+## Cao Duc Anh - 08/06
+
+**Yesterday**
+
+- This, apply, call, bind (100%)
+- SetTimeout/clearTimeout (100%)
+- SetInterval/clearInterval (100%)
+- Cookie/localStorage/sessionStorage (100%)
+- DOM - Document Object Model (100%)
+- BOM - Browser Object Model (100%)
+- Callback (100%)
+
+**Today**
+- RequestAnimationFrame/cancelAnimationFrame
+- Array
+- Multidimensional Arrays
+- Access and Iterate Through an Array
+- Bubbling and capturing
+- Regular-expressions
+
+**Are there any impediments in your way?**
+
+- No
