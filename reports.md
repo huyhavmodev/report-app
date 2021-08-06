@@ -566,3 +566,40 @@
 **Are there any impediments in your way?**
 
 - No
+
+## LƯU QUANG SƠN - 08/06
+
+**Yesterday**
+
+- RequestAnimationFrame/cancelAnimationFrame(tham khảo)
+- Array(80%)
+- Multidimensional Arrays(70%)
+- Access and Iterate Through an Array(70%)
+- Bubbling and capturing (70%)
+- Regular-expressions (100%)
+
+**Today**
+
+- Array
+- Linked list
+- Queue
+- Stack
+- Hash table
+- Set
+- Tree
+- Graph
+- AJAX and JSON
+- promise
+- async await syntax
+- ajax request (Fetch API, Axios)
+- scope arrow function
+- template string
+- destructuring
+- default
+- parameter
+- rest
+- spread.
+
+**Are there any impediments in your way?**
+
+- No
