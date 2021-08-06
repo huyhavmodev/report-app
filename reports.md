@@ -444,6 +444,7 @@
 - SetInterval/clearInterval (20%)
 
 **Today**
+
 - RequestAnimationFrame/cancelAnimationFrame
 - Cookie/localStorage/sessionStorage
 - DOM - Document Object Model
@@ -470,16 +471,18 @@
 - BOM - Browser Object Model (0%)
 
 **Today**
+
 - DOM - Document Object Model (0%)
 - BOM - Browser Object Model (0%)
 - Callback
 - Array
 
-
 **Are there any impediments in your way?**
 
 - No
+
 # === DAILY REPORT 08/06 ===
+
 ## NGUYỄN THÀNH LUÂN - 08/06
 
 **Yesterday**
@@ -502,7 +505,6 @@
 
 - No
 
-
 ## Cao Duc Anh - 08/06
 
 **Yesterday**
@@ -516,12 +518,50 @@
 - Callback (100%)
 
 **Today**
+
 - RequestAnimationFrame/cancelAnimationFrame
 - Array
 - Multidimensional Arrays
 - Access and Iterate Through an Array
 - Bubbling and capturing
 - Regular-expressions
+
+**Are there any impediments in your way?**
+
+- No
+
+## TRAN DAI MINH - 08/05
+
+**Yesterday**
+
+- RequestAnimationFrame/cancelAnimationFrame (tham khảo)
+- Cookie/localStorage/sessionStorage (100%)
+- DOM - Document Object Model (100%)
+- BOM - Browser Object Model (100%)
+- Bubbling and capturing (100%)
+- Regular-expressions (100%)
+
+**Today**
+
+- Array
+- Linked list
+- Queue
+- Stack
+- Hash table
+- Set
+- Tree
+- Graph
+- AJAX and JSON
+- promise
+- async await syntax
+- ajax request (Fetch API, Axios)
+- scope arrow function
+- template string
+- destructuring
+- default
+- parameter
+- rest
+- spread.
 
 **Are there any impediments in your way?**
 
