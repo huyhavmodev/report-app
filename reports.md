@@ -603,3 +603,26 @@
 **Are there any impediments in your way?**
 
 - No
+
+
+## Hoang Van Tung - 08/06
+
+**Yesterday**
+
+- Callback (100%)
+- Array (100%)
+- Multidimensional Arrays (100%)
+- Access and Iterate Through an Array (90%)
+- Bubbling and capturing
+- Regular-expressions
+
+**Today**
+
+- Access and Iterate Through an Array (90%)
+- Bubbling and capturing
+- Regular-expressions
+- Practice project with topic JS learned.
+
+**Are there any impediments in your way?**
+
+- No
