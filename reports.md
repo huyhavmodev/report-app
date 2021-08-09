@@ -675,7 +675,7 @@
 
 **Yesterday**
 
-- 8 cấu trúc dữ liệu.
+- 8 cấu trúc dữ liệu. (0%)
 - AJAX and JSON (100%)
 - promise (100%)
 - async await syntax (100%)
