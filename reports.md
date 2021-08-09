@@ -626,3 +626,25 @@
 **Are there any impediments in your way?**
 
 - No
+
+## NGUYỄN THÀNH LUÂN - 08/09
+
+**Yesterday**
+
+- Access and Iterate Through an Array (100%)
+- Bubbling and capturing (100%)
+- Regular-expressions (100%)
+- Tìm và làm thêm các bài tập về các kiến thức đã tìm hiểu.
+- 8 Cấu trúc dữ liệu thường dùng (20%)
+
+**Today**
+
+- 8 Cấu trúc dữ liệu
+- AJAX and JSON
+- promise, async await syntax
+- ajax request (Fetch API, Axios)
+- ES6: scope, arrow function, template string, destructuring, default parameter, rest, spread,...
+
+**Are there any impediments in your way?**
+
+- No
