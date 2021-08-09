@@ -595,15 +595,13 @@
 - scope arrow function
 - template string
 - destructuring
-- default
-- parameter
+- default parameter
 - rest
 - spread.
 
 **Are there any impediments in your way?**
 
 - No
-
 
 ## Hoang Van Tung - 08/06
 
@@ -627,8 +625,8 @@
 
 - No
 
-
 # === DAILY REPORT 08/09 ===
+
 ## NGUYỄN THÀNH LUÂN - 08/09
 
 **Yesterday**
@@ -668,6 +666,39 @@
 - promise, async await syntax
 - ajax request (Fetch API, Axios)
 - ES6: scope, arrow function, template string, destructuring, default parameter, rest, spread,
+
+**Are there any impediments in your way?**
+
+- No
+
+## TRAN DAI MINH - 08/09
+
+**Yesterday**
+
+- Array
+- Linked list
+- Queue
+- Stack
+- Hash table
+- Set
+- Tree
+- Graph
+- AJAX and JSON (100%)
+- promise (100%)
+- async await syntax (100%)
+- ajax request (Fetch API, Axios) (100%)
+- scope arrow function (100%)
+- template string (100%)
+- destructuring (100%)
+- default parameter (100%)
+- rest (100%)
+- spread. (100%)
+
+**Today**
+
+- 8 cấu trúc dữ liệu.
+- git.
+- practice topic test js.
 
 **Are there any impediments in your way?**
 
