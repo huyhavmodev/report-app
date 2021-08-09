@@ -675,14 +675,7 @@
 
 **Yesterday**
 
-- Array
-- Linked list
-- Queue
-- Stack
-- Hash table
-- Set
-- Tree
-- Graph
+- 8 cấu trúc dữ liệu. (0%).
 - AJAX and JSON (100%)
 - promise (100%)
 - async await syntax (100%)
