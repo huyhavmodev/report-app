@@ -762,3 +762,25 @@
 
 - **Are there any impediments in your way?**
 - No
+
+## Hoang Van Tung 08/10
+
+**Yesterday**
+
+- AJAX and JSON (100%)
+- promise, async await syntax (100%)
+- ajax request (Fetch API, Axios) (80%)
+- ES6: scope, arrow function, template string, destructuring, default parameter, rest, spread,... (30%)
+- - Nodejs and npm (60%)
+
+**Today**
+
+- ajax request (Fetch API, Axios)
+- ES6: scope, arrow function, template string, destructuring, default parameter, rest, spread,...
+- API and Authentication concept
+- Web development test
+
+
+**Are there any impediments in your way?**
+- No
+
