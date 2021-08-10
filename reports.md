@@ -720,3 +720,21 @@
 **Are there any impediments in your way?**
 
 - No
+
+## Cao Duc Anh - 08/09
+
+**Yesterday**
+
+- 8 common data structures (100%)
+- promise, async await syntax (100%)
+- ES6 (100%)
+
+**Today**
+
+- AJAX and JSON
+- ajax request (Fetch API, Axios)
+- Nodejs and npm
+
+**Are there any impediments in your way?**
+
+- No
