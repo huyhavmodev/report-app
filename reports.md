@@ -696,3 +696,27 @@
 **Are there any impediments in your way?**
 
 - No
+
+
+# === DAILY REPORT 08/10 ===
+
+## NGUYỄN THÀNH LUÂN - 08/10
+
+**Yesterday**
+
+- 8 Cấu trúc dữ liệu (100%)
+- AJAX and JSON (100%)
+- promise, async await syntax (100%)
+- ajax request (Fetch API, Axios) (80%)
+- ES6: scope, arrow function, template string, destructuring, default parameter, rest, spread,... (30%)
+
+**Today**
+- ajax request (Fetch API, Axios)
+- ES6: scope, arrow function, template string, destructuring, default parameter, rest, spread,...
+- Nodejs and npm
+- API and Authentication concept
+- Web development test
+
+**Are there any impediments in your way?**
+
+- No
