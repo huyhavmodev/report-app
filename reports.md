@@ -697,7 +697,6 @@
 
 - No
 
-
 # === DAILY REPORT 08/10 ===
 
 ## NGUYỄN THÀNH LUÂN - 08/10
@@ -711,6 +710,7 @@
 - ES6: scope, arrow function, template string, destructuring, default parameter, rest, spread,... (30%)
 
 **Today**
+
 - ajax request (Fetch API, Axios)
 - ES6: scope, arrow function, template string, destructuring, default parameter, rest, spread,...
 - Nodejs and npm
@@ -737,4 +737,28 @@
 
 **Are there any impediments in your way?**
 
+- No
+
+## TRAN DAI MINH - 08/09
+
+**Yesterday**
+
+- 8 cấu trúc dữ liệu. (100%)
+- git. (0%)
+- practice topic test js. (60%)
+
+**Today**
+
+- Nodejs and npm.
+- Dependencies vs devDependencies vs peerDependencies.
+- package-lock.json and yarn.lock.
+- Event Loop
+- API.
+- HTTP Request.
+- CORS issue.
+- Authentication/Authorization.
+- JSON web token (JWT).
+- RESTful vs GraphQL concept.
+
+- **Are there any impediments in your way?**
 - No
