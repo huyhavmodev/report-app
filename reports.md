@@ -848,7 +848,7 @@
 - CORS issue. (100%)
 - Authentication/Authorization.
 - JSON web token (JWT).
-- RESTful vs GraphQL concept.(100%)
+- RESTful vs GraphQL concept.(100%).
 
 **Today**
 
@@ -857,7 +857,7 @@
 - JSON web token (JWT).
 - Basic concepts of web applications, how they work and the HTTP protocol.
 
-- **Are there any impediments in your way?**
+**Are there any impediments in your way?**
 
 - No
 
