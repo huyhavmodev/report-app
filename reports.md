@@ -721,7 +721,7 @@
 
 - No
 
-## Cao Duc Anh - 08/09
+## Cao Duc Anh - 08/10
 
 **Yesterday**
 
@@ -837,4 +837,22 @@
 - Basic concepts of web applications, how they work and the HTTP protocol.
 
 - **Are there any impediments in your way?**
+- No
+
+## Cao Duc Anh - 08/11
+
+**Yesterday**
+
+- AJAX and JSON(20%)
+- ajax request (Fetch API, Axios) (20%)
+- Nodejs and npm (20%)
+
+**Today**
+
+- AJAX and JSON
+- ajax request (Fetch API, Axios)
+- Nodejs and npm
+
+**Are there any impediments in your way?**
+
 - No
