@@ -68,3 +68,5 @@ HMACSHA256(
 ```
 
 - Basic concepts of web applications, how they work and the HTTP protocol.
+
+  - Thành phần cơ bản của web: domain, web hosting, source code.
