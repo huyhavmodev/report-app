@@ -901,3 +901,27 @@
 **Are there any impediments in your way?**
 
 - No
+
+
+## Hoang Van Tung - 08/11
+
+**Yesterday**
+
+
+- ajax request (Fetch API, Axios) (50%)
+- ES6: scope, arrow function, template string, destructuring, default parameter, rest, spread,... (50%)
+- API and Authentication concept
+- Web development test
+- Nodejs and npm (100%)
+
+## **Today**
+
+- HTTP Request (OPTIONS, GET, POST, PUT, PATH, DELETE)
+- ajax request (Fetch API, Axios) 
+- ES6: scope, arrow function, template string, destructuring, default parameter, rest, spread,... 
+- API and Authentication concept
+- Web development test
+
+**Are there any impediments in your way?**
+
+- No
