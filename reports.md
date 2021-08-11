@@ -739,6 +739,28 @@
 
 - No
 
+## Lưu Quang Sơn - 08/10
+
+**Yesterday**
+
+
+- AJAX and JSON (80%)
+- promise, async await syntax (80%)
+- ajax request (Fetch API, Axios) (80%)
+- ES6: scope, arrow function, template string, destructuring, default parameter, rest, spread,... (30%)
+
+**Today**
+
+- ajax request (Fetch API, Axios)
+- ES6: scope, arrow function, template string, destructuring, default parameter, rest, spread,...
+- Nodejs and npm
+- API and Authentication concept
+- Web development test
+
+**Are there any impediments in your way?**
+
+- No
+
 ## TRAN DAI MINH - 08/10
 
 **Yesterday**
@@ -852,6 +874,30 @@
 - AJAX and JSON
 - ajax request (Fetch API, Axios)
 - Nodejs and npm
+
+**Are there any impediments in your way?**
+
+- No
+
+## Lưu Quang Sơn - 08/11
+
+**Yesterday**
+
+
+- ajax request (Fetch API, Axios) (100%)
+- ES6: scope, arrow function, template string, destructuring, default parameter, rest, spread,... (100%)
+- Nodejs and npm (100%)
+- API and Authentication concept (100%)
+- Web development test (100%)
+
+**Today**
+-
+- HTTP Request (OPTIONS, GET, POST, PUT, PATH, DELETE)
+- CORS issue
+- Authentication/Authorization
+- JSON web token (JWT)
+- RESTful vs GraphQL concept
+- Postman
 
 **Are there any impediments in your way?**
 
