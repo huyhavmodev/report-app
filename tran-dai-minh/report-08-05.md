@@ -1,4 +1,4 @@
-## TRAN DAI MINH 08-04
+## TRAN DAI MINH 08-05
 
 ## TOPIC: Cookie/localStorage/sessionStorage, DOM, BOM, Bubbling and capturing, Regular-expressions.
 
