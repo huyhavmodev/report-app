@@ -743,7 +743,6 @@
 
 **Yesterday**
 
-
 - AJAX and JSON (80%)
 - promise, async await syntax (80%)
 - ajax request (Fetch API, Axios) (80%)
@@ -859,6 +858,7 @@
 - Basic concepts of web applications, how they work and the HTTP protocol.
 
 - **Are there any impediments in your way?**
+
 - No
 
 ## Cao Duc Anh - 08/11
@@ -883,15 +883,14 @@
 
 **Yesterday**
 
-
 - ajax request (Fetch API, Axios) (100%)
 - ES6: scope, arrow function, template string, destructuring, default parameter, rest, spread,... (100%)
 - Nodejs and npm (100%)
 - API and Authentication concept (100%)
 - Web development test (100%)
 
-**Today**
--
+## **Today**
+
 - HTTP Request (OPTIONS, GET, POST, PUT, PATH, DELETE)
 - CORS issue
 - Authentication/Authorization

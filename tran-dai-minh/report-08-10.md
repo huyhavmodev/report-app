@@ -1,4 +1,4 @@
-## TRAN DAI MINH 08-04
+## TRAN DAI MINH 08-10
 
 ## TOPIC: Tìm hiểu nodejs, npm, LTS, Dependencies vs devDependencies vs peerDependencies, package-lock.json and yarn.lock, Event Loop, API, HTTP Request (OPTIONS, GET, POST, PUT, PATCH, DELETE), CORS issue, Authentication/Authorization, JSON web token (JWT), RESTful vs GraphQL concept.
 
