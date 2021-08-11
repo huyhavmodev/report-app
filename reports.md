@@ -739,7 +739,7 @@
 
 - No
 
-## TRAN DAI MINH - 08/09
+## TRAN DAI MINH - 08/10
 
 **Yesterday**
 
@@ -780,16 +780,16 @@
 - API and Authentication concept
 - Web development test
 
-
 **Are there any impediments in your way?**
-- No
 
+- No
 
 # === DAILY REPORT 08/11 ===
 
 ## NGUYỄN THÀNH LUÂN - 08/11
 
 **Yesterday**
+
 - ajax request (Fetch API, Axios) (100%)
 - ES6: scope, arrow function, template string, destructuring, default parameter, rest, spread,... (100%)
 - What's nodejs? - What's API? (100%)
@@ -801,7 +801,8 @@
 - What's API? (100%)
 
 **Today**
-- 
+
+-
 - HTTP Request (OPTIONS, GET, POST, PUT, PATH, DELETE)
 - CORS issue
 - Authentication/Authorization
@@ -811,4 +812,29 @@
 
 **Are there any impediments in your way?**
 
+- No
+
+## TRAN DAI MINH - 08/11
+
+**Yesterday**
+
+- Nodejs and npm. (100%)
+- Dependencies vs devDependencies vs peerDependencies. (100%)
+- package-lock.json and yarn.lock. (100%)
+- Event Loop
+- API. (100%)
+- HTTP Request. (100%)
+- CORS issue. (100%)
+- Authentication/Authorization.
+- JSON web token (JWT).
+- RESTful vs GraphQL concept.(100%)
+
+**Today**
+
+- Event Loop
+- Authentication/Authorization.
+- JSON web token (JWT).
+- Basic concepts of web applications, how they work and the HTTP protocol.
+
+- **Are there any impediments in your way?**
 - No
