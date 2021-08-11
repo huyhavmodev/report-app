@@ -784,3 +784,31 @@
 **Are there any impediments in your way?**
 - No
 
+
+# === DAILY REPORT 08/11 ===
+
+## NGUYỄN THÀNH LUÂN - 08/11
+
+**Yesterday**
+- ajax request (Fetch API, Axios) (100%)
+- ES6: scope, arrow function, template string, destructuring, default parameter, rest, spread,... (100%)
+- What's nodejs? - What's API? (100%)
+- What's npm? - What's API? (100%)
+- Install nodejs - What's API? (100%)
+- What's LTS (Long-term support)? - What's API? (100%)
+- Dependencies vs devDependencies vs peerDependencies - What's API? (100%)
+- package-lock.json and yarn.lock - What's API? (100%)
+- What's API? (100%)
+
+**Today**
+- 
+- HTTP Request (OPTIONS, GET, POST, PUT, PATH, DELETE)
+- CORS issue
+- Authentication/Authorization
+- JSON web token (JWT)
+- RESTful vs GraphQL concept
+- Postman
+
+**Are there any impediments in your way?**
+
+- No
