@@ -902,11 +902,9 @@
 
 - No
 
-
 ## Hoang Van Tung - 08/11
 
 **Yesterday**
-
 
 - ajax request (Fetch API, Axios) (50%)
 - ES6: scope, arrow function, template string, destructuring, default parameter, rest, spread,... (50%)
@@ -917,15 +915,14 @@
 ## **Today**
 
 - HTTP Request (OPTIONS, GET, POST, PUT, PATH, DELETE)
-- ajax request (Fetch API, Axios) 
-- ES6: scope, arrow function, template string, destructuring, default parameter, rest, spread,... 
+- ajax request (Fetch API, Axios)
+- ES6: scope, arrow function, template string, destructuring, default parameter, rest, spread,...
 - API and Authentication concept
 - Web development test
 
 **Are there any impediments in your way?**
 
 - No
-
 
 # === DAILY REPORT 08/12 ===
 
@@ -946,6 +943,23 @@
 - Evenloop
 - Ôn lại kiến thức đã tìm hiểu.
 - Hoàn thành bài test.
+
+**Are there any impediments in your way?**
+
+- No
+
+## TRAN DAI MINH - 08/12
+
+**Yesterday**
+
+- Event Loop. (100%)
+- Authentication/Authorization. (100%)
+- JSON web token (JWT). (100%)
+- Basic concepts of web applications, how they work and the HTTP protocol. (100%)
+
+**Today**
+
+- Complete all tests.
 
 **Are there any impediments in your way?**
 
