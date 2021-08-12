@@ -964,3 +964,20 @@
 **Are there any impediments in your way?**
 
 - No
+
+## Cao Duc Anh - 08/11
+
+**Yesterday**
+
+- AJAX and JSON(100%)
+- ajax request (Fetch API, Axios) (40%)
+- Nodejs and npm (20%)
+
+**Today**
+
+- ajax request (Fetch API, Axios)
+- Nodejs and npm
+
+**Are there any impediments in your way?**
+
+- No
