@@ -937,14 +937,14 @@
 - CORS issue (100%)
 - Authentication/Authorization (100%)
 - JSON web token (JWT) (100%)
-- RESTful vs GraphQL concept (50%)
-- Postman (50%)
+- RESTful vs GraphQL concept (100%)
+- Postman (100%)
+- Web Application (100%)
 
 **Today**
 
-- RESTful vs GraphQL concept (50%)
-- Postman (50%)
 - Evenloop
+- Ôn lại kiến thức đã tìm hiểu.
 - Hoàn thành bài test.
 
 **Are there any impediments in your way?**
