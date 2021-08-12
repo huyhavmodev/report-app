@@ -925,3 +925,28 @@
 **Are there any impediments in your way?**
 
 - No
+
+
+# === DAILY REPORT 08/12 ===
+
+## NGUYỄN THÀNH LUÂN - 08/12
+
+**Yesterday**
+
+- HTTP Request (OPTIONS, GET, POST, PUT, PATH, DELETE) (100%)
+- CORS issue (100%)
+- Authentication/Authorization (100%)
+- JSON web token (JWT) (100%)
+- RESTful vs GraphQL concept (50%)
+- Postman (50%)
+
+**Today**
+
+- RESTful vs GraphQL concept (50%)
+- Postman (50%)
+- Evenloop
+- Hoàn thành bài test.
+
+**Are there any impediments in your way?**
+
+- No
