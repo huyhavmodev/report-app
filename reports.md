@@ -981,3 +981,22 @@
 **Are there any impediments in your way?**
 
 - No
+
+
+# === DAILY REPORT 08/13 ===
+
+## NGUYỄN THÀNH LUÂN - 08/13
+
+**Yesterday**
+
+- Evenloop
+- Ôn lại kiến thức đã tìm hiểu.
+- Hoàn thành bài test.)
+
+**Today**
+- Ôn tập lại các kiến thức đã tìm hiểu.
+- Tìm hiểu ReactJS 
+
+**Are there any impediments in your way?**
+
+- No
