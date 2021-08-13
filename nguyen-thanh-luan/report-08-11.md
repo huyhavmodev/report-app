@@ -1,4 +1,4 @@
-# NGUYỄN THÀNH LUÂN - Report 08/10:
+# NGUYỄN THÀNH LUÂN - Report 08/11:
 
 **Cors Issue**
 - Cors (Cross-origin resource sharing): chia sẻ tài nguyên chéo. Là cơ chế cho phép nhiều tài nguyên khác nhau của 1 trang web có thể được truy vấn từ domain khác với 
