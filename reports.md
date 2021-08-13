@@ -982,7 +982,6 @@
 
 - No
 
-
 # === DAILY REPORT 08/13 ===
 
 ## NGUYỄN THÀNH LUÂN - 08/13
@@ -994,8 +993,26 @@
 - Hoàn thành bài test.)
 
 **Today**
+
 - Ôn tập lại các kiến thức đã tìm hiểu.
-- Tìm hiểu ReactJS 
+- Tìm hiểu ReactJS
+
+**Are there any impediments in your way?**
+
+- No
+
+## Cao Duc Anh - 08/13
+
+**Yesterday**
+
+- ajax request (Fetch API, Axios) (40%)
+- Nodejs and npm (20%)
+
+**Today**
+
+- ajax request (Fetch API, Axios)
+- Nodejs and npm
+- React
 
 **Are there any impediments in your way?**
 
