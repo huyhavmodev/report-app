@@ -1,4 +1,4 @@
-# NGUYỄN THÀNH LUÂN - Report 08/10:
+# NGUYỄN THÀNH LUÂN - Report 08/12:
 
 **Event loop**
 ```js
