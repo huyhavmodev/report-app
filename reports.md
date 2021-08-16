@@ -1017,3 +1017,28 @@
 **Are there any impediments in your way?**
 
 - No
+
+
+# === DAILY REPORT 08/16 ===
+
+## NGUYỄN THÀNH LUÂN - 08/16
+
+**Yesterday**
+
+- Tìm hiểu về React JS:
+- Install (100%)
+- JSX (100%)
+- Components and Props (100%)
+- State and Lifecycle (50%)
+
+**Today**
+
+- State and Lifecycle
+- Handling Events
+- Conditional Rendering
+- Lists and Keys
+- Forms
+
+**Are there any impediments in your way?**
+
+- No
