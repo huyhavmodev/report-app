@@ -1042,3 +1042,27 @@
 **Are there any impediments in your way?**
 
 - No
+
+# === DAILY REPORT 08/17 ===
+
+## NGUYỄN THÀNH LUÂN - 08/17
+
+**Yesterday**
+
+- State and Lifecycle (100%)
+- Handling Events (80%)
+- Conditional Rendering (100%)
+- Lists and Keys (100%)
+- Forms (100%)
+- Lifting State Up (80%)
+
+**Today**
+
+- Handling Events (80%)
+- Lifting State Up (80%)
+- Context
+- Hooks
+
+**Are there any impediments in your way?**
+
+- No
