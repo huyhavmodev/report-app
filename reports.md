@@ -1116,10 +1116,8 @@
 
 **Are there any impediments in your way?**
 
-- No
-=======
+- khó khăn trong việc sử dụng các hook làm bài test.
 
-# === DAILY REPORT 08/18 ===
 
 ## NGUYỄN THÀNH LUÂN - 08/18
 
@@ -1138,4 +1136,4 @@
 
 - Chưa setInterval được để sau 1s phần tử cuối cùng chuyển lên đầu.
 - Bugs.
->>>>>>> 112e4dda79d40e2c48356ad05cc850c069d0a5f4
+
