@@ -1067,6 +1067,7 @@
 
 - No
 
+<<<<<<< HEAD
 ## LƯU QUANG SƠN - 08/17
 
 **Yesterday**
@@ -1116,3 +1117,25 @@
 **Are there any impediments in your way?**
 
 - No
+=======
+
+# === DAILY REPORT 08/18 ===
+
+## NGUYỄN THÀNH LUÂN - 08/18
+
+**Yesterday**
+
+- Handling Events (100%)
+- Lifting State Up (100%)
+
+**Today**
+
+- Context
+- Hooks
+- Làm bài test Call API Random User
+
+**Are there any impediments in your way?**
+
+- Chưa setInterval được để sau 1s phần tử cuối cùng chuyển lên đầu.
+- Bugs.
+>>>>>>> 112e4dda79d40e2c48356ad05cc850c069d0a5f4
