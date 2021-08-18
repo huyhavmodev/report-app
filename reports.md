@@ -1066,3 +1066,53 @@
 **Are there any impediments in your way?**
 
 - No
+
+## LƯU QUANG SƠN - 08/17
+
+**Yesterday**
+
+- State and Props (100%)
+- life cycle (80%)
+- Hooks (50%)
+- Children (50%)
+- HOC (50%)
+- REDUX-THUNK (10%)
+
+**Today**
+
+- life cycle 
+- Hooks 
+- Children 
+- HOC 
+- REDUX-THUNK 
+
+
+**Are there any impediments in your way?**
+
+- No
+
+# === DAILY REPORT 08/18 ===
+
+## LƯU QUANG SƠN - 08/18
+
+**Yesterday**
+
+
+- life cycle (100%)
+- Hooks (70%)
+- Children (80%)
+- HOC (100%)
+- REDUX-THUNK (10%)
+
+**Today**
+
+- life cycle 
+- Hooks 
+- Children 
+- HOC 
+- REDUX-THUNK 
+
+
+**Are there any impediments in your way?**
+
+- No
