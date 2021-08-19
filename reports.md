@@ -1018,7 +1018,6 @@
 
 - No
 
-
 # === DAILY REPORT 08/16 ===
 
 ## NGUYỄN THÀNH LUÂN - 08/16
@@ -1068,6 +1067,7 @@
 - No
 
 <<<<<<< HEAD
+
 ## LƯU QUANG SƠN - 08/17
 
 **Yesterday**
@@ -1081,12 +1081,11 @@
 
 **Today**
 
-- life cycle 
-- Hooks 
-- Children 
-- HOC 
-- REDUX-THUNK 
-
+- life cycle
+- Hooks
+- Children
+- HOC
+- REDUX-THUNK
 
 **Are there any impediments in your way?**
 
@@ -1098,7 +1097,6 @@
 
 **Yesterday**
 
-
 - life cycle (100%)
 - Hooks (70%)
 - Children (80%)
@@ -1107,17 +1105,15 @@
 
 **Today**
 
-- life cycle 
-- Hooks 
-- Children 
-- HOC 
-- REDUX-THUNK 
-
+- life cycle
+- Hooks
+- Children
+- HOC
+- REDUX-THUNK
 
 **Are there any impediments in your way?**
 
 - khó khăn trong việc sử dụng các hook làm bài test.
-
 
 ## NGUYỄN THÀNH LUÂN - 08/18
 
@@ -1137,7 +1133,7 @@
 - Chưa setInterval được để sau 1s phần tử cuối cùng chuyển lên đầu.
 - Bugs.
 
-
+# === DAILY REPORT 08/19 ===
 
 ## NGUYỄN THÀNH LUÂN - 08/19
 
@@ -1158,3 +1154,21 @@
 
 - Chưa setInterval được để sau 1s phần tử cuối cùng chuyển lên đầu.
 - Bugs.
+
+## CAO ĐỨC ANH - 08/19
+
+**Yesterday**
+
+- State and Props (100%)
+- life cycle (80%)
+- Làm bài test Call API Random User
+
+**Today**
+
+- Life cycle
+- Hook
+- Hoàn thiện bài test
+
+**Are there any impediments in your way?**
+
+- Chưa set được phần tử cuối cùng chuyển lên đầu
