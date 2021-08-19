@@ -1172,3 +1172,26 @@
 **Are there any impediments in your way?**
 
 - Chưa set được phần tử cuối cùng chuyển lên đầu
+
+## LƯU QUANG SƠN - 08/19
+
+**Yesterday**
+
+- life cycle (100%)
+- Hooks (70%)
+- Children (80%)
+- HOC (100%)
+- REDUX-THUNK (20%)
+
+**Today**
+
+- life cycle
+- Hooks
+- Children
+- HOC
+- REDUX-THUNK
+
+**Are there any impediments in your way?**
+
+- chưa lấy ra được 10 element từ api, và setinterval trong bài test.
+- chưa định hướng được cách giải quyết mini project.
