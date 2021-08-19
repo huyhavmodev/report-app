@@ -1137,3 +1137,24 @@
 - Chưa setInterval được để sau 1s phần tử cuối cùng chuyển lên đầu.
 - Bugs.
 
+
+
+## NGUYỄN THÀNH LUÂN - 08/19
+
+**Yesterday**
+
+- Context (50%)
+- Hooks (50%)
+- Làm bài test Call API Random User
+
+**Today**
+
+- Context
+- Hooks
+- Fix lỗi bài test
+- Làm các project mini bằng function component sử dụng hook( counter app..)
+
+**Are there any impediments in your way?**
+
+- Chưa setInterval được để sau 1s phần tử cuối cùng chuyển lên đầu.
+- Bugs.
