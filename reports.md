@@ -1066,8 +1066,6 @@
 
 - No
 
-<<<<<<< HEAD
-
 ## LƯU QUANG SƠN - 08/17
 
 **Yesterday**
@@ -1195,3 +1193,21 @@
 
 - chưa lấy ra được 10 element từ api, và setinterval trong bài test.
 - chưa định hướng được cách giải quyết mini project.
+
+## TRAN DAI MINH - 08/19
+
+**Yesterday**
+
+- Complete mini project (70%).
+- Life cycle (100%)
+- Hooks (100%)
+- Practice test Call API Random User (0%).
+
+**Today**
+
+- Complete mini project.
+- Practice test Call API Random User.
+
+**Are there any impediments in your way?**
+
+- No
