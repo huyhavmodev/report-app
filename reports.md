@@ -1212,13 +1212,11 @@
 
 - No
 
-
 # === DAILY REPORT 08/20 ===
 
 ## NGUYỄN THÀNH LUÂN - 08/20
 
 **Yesterday**
-
 
 - Làm bài tập về Hook.
 - Counter App
@@ -1232,3 +1230,20 @@
 **Are there any impediments in your way?**
 
 - Chưa setInterval được để sau 1s phần tử cuối cùng chuyển lên đầu.
+
+## TRAN DAI MINH - 08/19
+
+**Yesterday**
+
+- Complete mini project (100%).
+- Practice test Call API Random User (50%).
+
+**Today**
+
+- Practice test Call API Random User.
+- HOC
+- redux
+
+**Are there any impediments in your way?**
+
+- Practice test Call API Random User
