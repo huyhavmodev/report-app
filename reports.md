@@ -1247,3 +1247,23 @@
 **Are there any impediments in your way?**
 
 - Practice test Call API Random User
+
+## LƯU QUANG SƠN - 08/20
+
+**Yesterday**
+
+- life cycle (100%)
+- Hooks (80%)
+- Children (80%)
+- HOC (100%)
+- REDUX-THUNK (30%)
+
+**Today**
+
+- Hooks
+- Children
+- HOC
+- REDUX-THUNK
+
+**Are there any impediments in your way?**
+Bài test chưa Last in first out dc
