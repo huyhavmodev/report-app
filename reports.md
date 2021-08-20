@@ -1211,3 +1211,24 @@
 **Are there any impediments in your way?**
 
 - No
+
+
+# === DAILY REPORT 08/20 ===
+
+## NGUYỄN THÀNH LUÂN - 08/20
+
+**Yesterday**
+
+
+- Làm bài tập về Hook.
+- Counter App
+- Call Random User API
+
+**Today**
+
+- Hoàn thành phần chưa làm được Call Random User Api.
+- Tìm hiểu Redux
+
+**Are there any impediments in your way?**
+
+- Chưa setInterval được để sau 1s phần tử cuối cùng chuyển lên đầu.
