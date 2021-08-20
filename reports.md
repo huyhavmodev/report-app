@@ -1231,7 +1231,7 @@
 
 - Chưa setInterval được để sau 1s phần tử cuối cùng chuyển lên đầu.
 
-## TRAN DAI MINH - 08/19
+## TRAN DAI MINH - 08/20
 
 **Yesterday**
 
