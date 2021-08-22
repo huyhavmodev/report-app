@@ -1267,3 +1267,26 @@
 
 **Are there any impediments in your way?**
 Bài test chưa Last in first out dc
+
+
+# === DAILY REPORT 08/23 ===
+
+## NGUYỄN THÀNH LUÂN - 08/23
+
+**Yesterday**
+
+- life cycle (100%)
+- Hooks (80%)
+- Children (80%)
+- HOC (100%)
+- REDUX-THUNK (50%)
+
+**Today**
+
+- Hooks
+- Children
+- HOC
+- REDUX-THUNK
+- Làm  Mini Project
+
+**Are there any impediments in your way?**
