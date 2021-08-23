@@ -1268,6 +1268,23 @@
 **Are there any impediments in your way?**
 Bài test chưa Last in first out dc
 
+## CAO ĐỨC ANH - 08/20
+
+**Yesterday**
+
+- State and Props (100%)
+- life cycle (80%)
+- Làm bài test Call API Random User
+
+**Today**
+
+- Life cycle
+- Hook
+- Hoàn thiện bài test
+
+**Are there any impediments in your way?**
+
+- Chưa set được phần tử cuối cùng chuyển lên đầu
 
 # === DAILY REPORT 08/23 ===
 
@@ -1287,7 +1304,25 @@ Bài test chưa Last in first out dc
 - Children
 - HOC
 - REDUX-THUNK
-- Làm  Mini Project
+- Làm Mini Project
+
+**Are there any impediments in your way?**
+
+## CAO ĐỨC ANH - 08/20
+
+**Yesterday**
+
+- life cycle (80%)
+- Làm bài test Call API Random User
+- Hook (30%)
+
+**Today**
+
+- Life cycle
+- Hook
+- Hoàn thiện bài test
+
+**Are there any impediments in your way?**
 
 **Are there any impediments in your way?**
 
@@ -1304,3 +1339,6 @@ Bài test chưa Last in first out dc
 
 **Are there any impediments in your way?**
 - No
+=======
+- None
+
