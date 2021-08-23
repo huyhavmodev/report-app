@@ -1323,8 +1323,7 @@ Bài test chưa Last in first out dc
 - Hoàn thiện bài test
 
 **Are there any impediments in your way?**
-
-**Are there any impediments in your way?**
+- Chưa chuyển phần tử cuối lên đầu được
 
 
 ## NGUYỄN THÀNH LUÂN - 08/23
@@ -1338,7 +1337,5 @@ Bài test chưa Last in first out dc
 - Router
 
 **Are there any impediments in your way?**
-- No
-=======
-- None
+- Chưa chuyển phần tử cuối lên đầu được
 
