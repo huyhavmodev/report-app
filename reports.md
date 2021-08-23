@@ -1324,4 +1324,21 @@ Bài test chưa Last in first out dc
 
 **Are there any impediments in your way?**
 
+**Are there any impediments in your way?**
+
+
+## NGUYỄN THÀNH LUÂN - 08/23
+
+**Yesterday**
+- Redux (60%)
+- Router
+
+**Today**
+- Redux.
+- Router
+
+**Are there any impediments in your way?**
+- No
+=======
 - None
+
