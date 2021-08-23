@@ -1323,19 +1323,38 @@ Bài test chưa Last in first out dc
 - Hoàn thiện bài test
 
 **Are there any impediments in your way?**
-- Chưa chuyển phần tử cuối lên đầu được
 
+- Chưa chuyển phần tử cuối lên đầu được
 
 ## NGUYỄN THÀNH LUÂN - 08/23
 
 **Yesterday**
+
 - Redux (60%)
 - Router
 
 **Today**
+
 - Redux.
 - Router
 
 **Are there any impediments in your way?**
+
 - Chưa chuyển phần tử cuối lên đầu được
 
+## TRAN DAI MINH - 08/23
+
+**Yesterday**
+
+- Practice test Call API Random User (100%).
+- HOC (100%).
+- redux (100%).
+
+**Today**
+
+- redux-saga.
+- redux-thunk.
+
+**Are there any impediments in your way?**
+
+- Practice test Call API Random User
