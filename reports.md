@@ -1288,7 +1288,7 @@ Bài test chưa Last in first out dc
 
 # === DAILY REPORT 08/23 ===
 
-## NGUYỄN THÀNH LUÂN - 08/23
+## LƯU QUANG SƠN - 08/23
 
 **Yesterday**
 
