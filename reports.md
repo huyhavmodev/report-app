@@ -1372,6 +1372,7 @@ Bài test chưa Last in first out dc
 
 - redux-saga.
 - redux-thunk.
+- immmerjs.
 
 **Are there any impediments in your way?**
 
