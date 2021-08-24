@@ -1357,4 +1357,4 @@ Bài test chưa Last in first out dc
 
 **Are there any impediments in your way?**
 
-- Practice test Call API Random User
+- No
