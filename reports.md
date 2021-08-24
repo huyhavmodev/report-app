@@ -1358,3 +1358,21 @@ Bài test chưa Last in first out dc
 **Are there any impediments in your way?**
 
 - No
+
+# === DAILY REPORT 08/24 ===
+
+## TRAN DAI MINH - 08/24
+
+**Yesterday**
+
+- redux-saga (30%).
+- redux-thunk (20%).
+
+**Today**
+
+- redux-saga.
+- redux-thunk.
+
+**Are there any impediments in your way?**
+
+- No
