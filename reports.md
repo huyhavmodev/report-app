@@ -1377,3 +1377,44 @@ Bài test chưa Last in first out dc
 **Are there any impediments in your way?**
 
 - No
+
+## LƯU QUANG SƠN - 08/24
+
+**Yesterday**
+
+
+- Hooks (80%)
+- Children (80%)
+- HOC (100%)
+- REDUX-THUNK (50%)
+
+**Today**
+
+- Hooks
+- Children
+- HOC
+- REDUX-THUNK
+
+- Làm Mini Project
+
+**Are there any impediments in your way?**
+
+# === DAILY REPORT 08/25 ===
+
+## LƯU QUANG SƠN - 08/25
+
+**Yesterday**
+
+
+- Hooks (80%)
+- Children (80%)
+- HOC (100%)
+- REDUX-THUNK (50%)
+
+**Today**
+- Hooks
+- REDUX-THUNK
+- Làm Mini Project
+
+**Are there any impediments in your way?**
+ - khó khăn trong việc làm todolist vs redux-thunk
