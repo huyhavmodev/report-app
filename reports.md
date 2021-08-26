@@ -1382,7 +1382,6 @@ Bài test chưa Last in first out dc
 
 **Yesterday**
 
-
 - Hooks (80%)
 - Children (80%)
 - HOC (100%)
@@ -1405,16 +1404,36 @@ Bài test chưa Last in first out dc
 
 **Yesterday**
 
-
 - Hooks (80%)
 - Children (80%)
 - HOC (100%)
 - REDUX-THUNK (50%)
 
 **Today**
+
 - Hooks
 - REDUX-THUNK
 - Làm Mini Project
 
 **Are there any impediments in your way?**
- - khó khăn trong việc làm todolist vs redux-thunk
+
+- khó khăn trong việc làm todolist vs redux-thunk
+
+# === DAILY REPORT 08/26 ===
+
+## TRAN DAI MINH - 08/26
+
+**Yesterday**
+
+- redux-saga (100%).
+- redux-thunk (100%).
+- immmerjs (100%).
+
+**Today**
+
+- tailwind css.
+- eslint.
+
+**Are there any impediments in your way?**
+
+- No
